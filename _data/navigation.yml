@@ -3,6 +3,6 @@ main:
   - title: "About"
     url: /about/
   - title: "Blog"
-    url: /year-archive/
+    url: /blog/
   - title: "Guide"
     url: https://civic-switchboard.gitbook.io/guide/

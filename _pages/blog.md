@@ -1,6 +1,6 @@
 ---
-layout: home
+layout: posts 
 permalink: /blog/
-title: "Civic Switchboard - Blog"
+title: "Blog"
 ---
 

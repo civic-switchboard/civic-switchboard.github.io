@@ -4,8 +4,7 @@ permalink: /
 ---
 
 
-Civic Switchboard is an [Institute of Museum and Library Services](https://www.imls.gov_) supported effort that aims to develop the capacity of academic and public libraries in civic data ecosystems.  </p> <img class="hero" src="http://tools.wprdc.org/images/civic-switchboard/switchboard.jpg" alt="switchboard"/>
-
+Civic Switchboard is an [Institute of Museum and Library Services](https://www.imls.gov_) supported effort that aims to develop the capacity of academic and public libraries in civic data ecosystems.
 
 This project encourages partnerships between libraries and local data intermediaries; these partnerships will better serve data users, further democratize data, and support equitable access to information. The project will create a toolkit for libraries interested in expanding (or beginning) their role around civic information.
 
@@ -26,10 +25,10 @@ For much more detail about the project's rationale and plan, read our [full prop
 
 ##Team
 
-	* Aaron Brenner, The University Library System (ULS) at the University of Pittsburgh
-	* Bob Gradeck, Western Pennsylvania Regional Data Center (WPRDC)
-  * Toby Greenwalt, Carnegie Library of Pittsburgh (CLP)
-  * Eleanor "Nora" Mattern, The University of Chicago Library (formerly with The University Library System (ULS) at the University of Pittsburgh)
-  * Liz Monk, Western Pennsylvania Regional Data Center (WPRDC)
-  * Kathy Pettit, National Neighborhood Indicators Partnership (NNIP)
-  * Eleanor Tutt, formerly of Carnegie Library of Pittsburgh (CLP)
+*  Aaron Brenner, The University Library System (ULS) at the University of Pittsburgh
+*  Bob Gradeck, Western Pennsylvania Regional Data Center (WPRDC)
+*  Toby Greenwalt, Carnegie Library of Pittsburgh (CLP)
+*  Eleanor "Nora" Mattern, The University of Chicago Library (formerly with The University Library System (ULS) at the University of Pittsburgh)
+*  Liz Monk, Western Pennsylvania Regional Data Center (WPRDC)
+*  Kathy Pettit, National Neighborhood Indicators Partnership (NNIP)
+*  Eleanor Tutt, formerly of Carnegie Library of Pittsburgh (CLP)

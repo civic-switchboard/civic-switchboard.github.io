@@ -1,6 +1,7 @@
 ---
 layout: single 
 permalink: /about/
+title: "About"
 ---
 The Civic Switchboard project design is based on two strong convictions. First, that cultivating a healthy local civic data ecosystem depends upon the coordinated efforts of a variety of data intermediaries. In other words, no single entity can effectively cover all of the necessary roles alone. To that end, our project team includes representation from a public library system (Carnegie Library of Pittsburgh), an academic library system (University of Pittsburgh), a regional open data portal (Western Pennsylvania Regional Data Center, hosted by the University of Pittsburgh Center for Social and Urban Research), and a national membership organization of non-library civic data intermediaries (National Neighborhood Indicators Partnership), coordinated by the Urban Institute. Cultivating and strengthening similar partnerships in other regions is a core objective of this project.
 

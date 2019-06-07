@@ -19,12 +19,12 @@ locale                   : "en-US"
 title                    : "Civic Switchboard"
 title_separator          : "-"
 name                     : ""
-description              : ""
+description              : "Connecting Libraries and Community Information Networks"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
+logo                     : "img/switchboard.jpg"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -107,9 +107,9 @@ analytics:
 # Site Author
 author:
   name             : "Civic Switchboard Project Team"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : 
-  location         : 
+  avatar           : "img/switchboard.jpg"
+  bio              :
+  location         :
   email            : "civic-switchboard@pitt.edu"
   links:
     - label: "Email"

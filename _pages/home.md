@@ -1,8 +1,11 @@
 ---
 layout: single 
 permalink: /
+title: "Civic Switchboard: Connecting Libraries and Community Information Networks"
 ---
 
+## Civic Switchboard
+### Connecting Libraries and Community Information Networks
 
 ![image-left]({{ site.url }}{{ site.baseurl }}/img/switchboard-200.jpg){: .align-left} 
 Civic Switchboard is an [Institute of Museum and Library Services](https://www.imls.gov_) supported effort that aims to develop the capacity of academic and public libraries in civic data ecosystems.

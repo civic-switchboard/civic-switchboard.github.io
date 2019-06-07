@@ -1,92 +1,35 @@
 ---
-layout: static
+layout: home
 permalink: /
 ---
 
 
-<div class="content">
-    <div class="about">
-        <p>
-            <span class="lead-in">Civic Switchboard</span> is an <a href="https://www.imls.gov">Institute of Museum
-            and Library Services</a> supported
-            effort that aims to develop the capacity of academic and public libraries in civic data ecosystems.
-        </p>
-        <img class="hero" src="http://tools.wprdc.org/images/civic-switchboard/switchboard.jpg" alt="switchboard"/>
+Civic Switchboard is an [Institute of Museum and Library Services](https://www.imls.gov_) supported effort that aims to develop the capacity of academic and public libraries in civic data ecosystems.  </p> <img class="hero" src="http://tools.wprdc.org/images/civic-switchboard/switchboard.jpg" alt="switchboard"/>
 
-        <p>
-            This project encourages partnerships between libraries and local data intermediaries; these partnerships
-            will better serve data users, further democratize data, and support equitable access to information. The
-            project will create a toolkit for libraries interested in expanding (or beginning) their role around
-            civic information.
-        </p>
 
-        <p>
-            In Year 1, to broaden networks and expand resources, the project team hosted workshops at two
-            conferences: The <a href="https://www.neighborhoodindicators.org">National Neighborhood Indicators
-            Partnership</a> (May 2018) and the <a href="https://www.diglib.org">Digital Library
-            Federation</a> (October 2018). Stipends were available for libraries and data intermediary
-            organizations interested in participating in these workshops; a limited number of complimentary
-            registration fees for the associated conferences were also be available.
-        </p>
+This project encourages partnerships between libraries and local data intermediaries; these partnerships will better serve data users, further democratize data, and support equitable access to information. The project will create a toolkit for libraries interested in expanding (or beginning) their role around civic information.
 
-        <p>
-            In Year 2, the project offered stipends to partnerships between libraries and local data
-            intermediaries for field testing the toolkit.
-        </p>
+In Year 1, to broaden networks and expand resources, the project team hosted workshops at two conferences: The [National Neighborhood Indicators Partnership](https://www.neighborhoodindicators.org) (May 2018) and the [Digital Library Federation](https://www.diglib.org) (October 2018). Stipends were available for libraries and data intermediary organizations interested in participating in these workshops; a limited number of complimentary registration fees for the associated conferences were also be available.
 
-        <p>
-            For much more detail about the project's rationale and plan, read our <a
-                href="https://www.imls.gov/grants/awarded/lg-70-17-0146-17"> full proposal narrative on the
-            IMLS site</a>.
-        </p>
+In Year 2, the project offered stipends to partnerships between libraries and local data intermediaries for field testing the toolkit.
 
-    </div> 
-    <div class="section updates">
-     <!-- <h3 style="color:red">Apply for our Field Project Awards!</h3>
-         <a style="font-size:large;color:red" href="https://civic-switchboard.github.io/updates/post_11">
-          We are now accepting proposals for our Field Project awards - Deadline November 5, 2018 </a>
-          </strong><br/>-->
-    
-         </p>
-    </div>
-    
-    <div class="section stay-informed">
-       <h3>Stay Informed</h3>
-        <p><a href="http://eepurl.com/dceWk9">Sign up</a> to receive more information about upcoming 
-            opportunities, read our <a href="/updates/">blog posts</a>, read our <a href="https://civic-switchboard.gitbooks.io/guide/content/">guide (in development)</a>, 
-            and follow us on 
-            <a href="https://twitter.com/civicswitch">twitter</a> and 
-            <a href="https://github.com/orgs/civic-switchboard/">GitHub</a>.
-        </p>
-    </div>
+For much more detail about the project's rationale and plan, read our [full proposal narrative on the IMLS site](https://www.imls.gov/grants/awarded/lg-70-17-0146-17).
 
-    <!--<div class="section resources">-->
-    <!--<h3>Resources</h3>-->
-    <!--<p>We're gettin' to it...</p>-->
-    <!--</div>-->
+##Stay Informed
 
-    <div class="section contact">
-        <h3>Contact</h3>
-        <p><a href="mailto:civic-switchboard@pitt.edu">civic-switchboard@pitt.edu</a></p>
-    </div>
+[Sign up](http://eepurl.com/dceWk9) to receive more information about upcoming opportunities, read our [blog posts], read our [guide](https://civic-switchboard.gitbooks.io/guide/content/) (in development), and follow us on [twitter](https://twitter.com/civicswitch) and [GitHub](https://github.com/orgs/civic-switchboard/).
+.
 
-    <div class="section team">
-        <h3>Team</h3>
-        <ul class="team-members">
-            <li><span class="team-name">Aaron Brenner</span>, The University Library System (ULS) at the University
-                of
-                Pittsburgh
-            </li>
-            <li><span class="team-name">Bob Gradeck</span>, Western Pennsylvania Regional Data Center (WPRDC)</li>
-            <li><span class="team-name">Toby Greenwalt</span>, Carnegie Library of Pittsburgh (CLP)</li>
-            <li><span class="team-name">Eleanor "Nora" Mattern</span>, The University of Chicago Library (formerly with The University Library System (ULS) at the University
-                of
-                Pittsburgh)
-            </li>
-            <li><span class="team-name">Liz Monk</span>, Western Pennsylvania Regional Data Center (WPRDC)</li>
-            <li><span class="team-name">Kathy Pettit</span>, National Neighborhood Indicators Partnership (NNIP)</li>
-            <li><span class="team-name">Eleanor Tutt</span>, formerly of Carnegie Library of Pittsburgh (CLP)</li>
-        </ul>
-    </div>
-</div>
+##Contact
 
+[civic-switchboard@pitt.edu](mailto:civic-switchboard@pitt.edu)
+
+##Team
+
+	* Aaron Brenner, The University Library System (ULS) at the University of Pittsburgh
+	* Bob Gradeck, Western Pennsylvania Regional Data Center (WPRDC)
+  * Toby Greenwalt, Carnegie Library of Pittsburgh (CLP)
+  * Eleanor "Nora" Mattern, The University of Chicago Library (formerly with The University Library System (ULS) at the University of Pittsburgh)
+  * Liz Monk, Western Pennsylvania Regional Data Center (WPRDC)
+  * Kathy Pettit, National Neighborhood Indicators Partnership (NNIP)
+  * Eleanor Tutt, formerly of Carnegie Library of Pittsburgh (CLP)

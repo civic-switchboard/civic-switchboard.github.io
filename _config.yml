@@ -24,7 +24,7 @@ url                      : # the base hostname & protocol for your site e.g. "ht
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : "img/switchboard-200.jpg"
+logo                     : "/assets/images/switchboard-200.jpg"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -88,7 +88,7 @@ facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 : "img/switchboard-200.jpg"
+og_image                 : "/assets/images/switchboard-200.jpg"
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
@@ -107,7 +107,7 @@ analytics:
 # Site Author
 author:
   name             : "Civic Switchboard Project Team"
-  avatar           : "img/switchboard-200.jpg"
+  avatar           : "/assets/images/switchboard-200.jpg"
   bio              :
   location         :
   email            : "civic-switchboard@pitt.edu"
@@ -289,7 +289,7 @@ defaults:
       type: posts
     values:
       layout: single
-      author_profile: true
+      author_profile: false 
       read_time: true
       comments: # true
       share: true

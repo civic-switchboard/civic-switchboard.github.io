@@ -22,10 +22,10 @@ This project encourages partnerships between libraries and local data intermedia
 
 ## Team
 
-*  Aaron Brenner, The University Library System (ULS) at the University of Pittsburgh
-*  Bob Gradeck, Western Pennsylvania Regional Data Center (WPRDC)
-*  Toby Greenwalt, Carnegie Library of Pittsburgh (CLP)
-*  Eleanor "Nora" Mattern, The University of Chicago Library (formerly with The University Library System (ULS) at the University of Pittsburgh)
-*  Liz Monk, Western Pennsylvania Regional Data Center (WPRDC)
-*  Kathy Pettit, National Neighborhood Indicators Partnership (NNIP)
-*  Eleanor Tutt, formerly of Carnegie Library of Pittsburgh (CLP)
+*  **Aaron Brenner**, The University Library System (ULS) at the University of Pittsburgh
+*  **Bob Gradeck**, Western Pennsylvania Regional Data Center (WPRDC)
+*  **Toby Greenwalt**, Carnegie Library of Pittsburgh (CLP)
+*  **Eleanor "Nora" Mattern**, The University of Chicago Library (formerly with The University Library System (ULS) at the University of Pittsburgh)
+*  **Liz Monk**, Western Pennsylvania Regional Data Center (WPRDC)
+*  **Kathy Pettit**, National Neighborhood Indicators Partnership (NNIP)
+*  **Eleanor Tutt**, formerly of Carnegie Library of Pittsburgh (CLP)

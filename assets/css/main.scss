@@ -11,6 +11,9 @@
 /* Theme overrides */
 
 .archive__item-teaser {
-  vertical-align: middle;
-  max-height: 250px;
+  object-fit: cover;
+}
+
+.archive__item-excerpt {
+  margin-bottom: 1em;
 }

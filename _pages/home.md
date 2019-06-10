@@ -6,6 +6,7 @@ excerpt: "Connecting Libraries and Community Information Networks"
 header:
   teaser: /assets/images/switchboard-200.jpg
   og_image: /assets/images/switchboard-200.jpg
+  twitter_image: /assets/images/switchboard-200.jpg
   overlay_image: /assets/images/ATL-mapping-ecosystems-2.jpg
   overlay_filter: rgba(45, 79, 87, 0.7)
   actions:

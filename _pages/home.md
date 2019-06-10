@@ -5,7 +5,7 @@ title: "Civic Switchboard"
 excerpt: "Connecting Libraries and Community Information Networks"
 header:
   overlay_image: /assets/images/ATL-mapping-ecosystems-2.jpg
-  overlay_filter: rgba(105, 139, 147, 0.7)
+  overlay_filter: rgba(75, 109, 117, 0.7)
   actions:
     - label: "Read more in our guide for libraries"
       url: "https://civic-switchboard.gitbook.io/guide/"

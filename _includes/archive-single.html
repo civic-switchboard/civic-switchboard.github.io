@@ -25,7 +25,7 @@
     {% endif %}
  {% if post.header.teaser %}
       <div class="archive__item-teaser">
-        <a href="{{ post.url | relative_url }}"><img src={% if teaser contains "://" %}"{ teaser }}"{% else %}"{{ teaser | relative_url }"{% endif %} alt="{{ post.title }}" width="575" height="150"></a>
+        <a href="{{ post.url | relative_url }}"><img src={% if teaser contains "://" %}"{{ teaser }}"{% else %}"{{ teaser | relative_url }}"{% endif %} alt="{{ post.title }}" width="575" height="150"></a>
       </div>
       {% endif %}
       {% if post.link %}

@@ -12,7 +12,7 @@ header:
 ---
 
 ![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/switchboard-200.jpg){: .align-left} 
-Civic Switchboard is an [Institute of Museum and Library Services](https://www.imls.gov_) supported effort that aims to develop the capacity of academic and public libraries in civic data ecosystems.
+Civic Switchboard is an [Institute of Museum and Library Services](https://www.imls.gov) supported effort that aims to develop the capacity of academic and public libraries in civic data ecosystems.
 
 We encourage partnerships between libraries and local data intermediaries that will better serve data users, further democratize data, and support equitable access to information. Our project is creating a [guide and toolkit](https://civic-switchboard.gitbook.io/guide/) for libraries interested in expanding (or beginning) their role around civic information.
 

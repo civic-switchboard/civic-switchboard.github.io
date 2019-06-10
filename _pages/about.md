@@ -14,8 +14,8 @@ Secondly, we believe that the importance of local context and the variety of loc
 
 There are a number of ways that your library or community can be involved.
 
-In 2018, the project team will host workshops at two conferences: The National Neighborhood Indicators Partnership (May 2018) and the Digital Library Federation (October 2018). __These workshops have now completed. Read recaps of the [Atlanta]({{ site.baseurl }}{% post_url 2018-05-30-post_8 %}) and [Las Vegas]({{ site.baseurl }}{% post_url 2018-12-05_post_12 %}) workshops.__ 
+In 2018, the project team will host workshops at two conferences: The National Neighborhood Indicators Partnership (May 2018) and the Digital Library Federation (October 2018). __These workshops have now completed. Read recaps of the [Atlanta](/post_8/) and [Las Vegas](/post_12/}) workshops.__ 
 
-In 2019, the project will offer stipends to partnerships between libraries and local data intermediaries for field testing the toolkit. __These are now underway. [Read about the projects we funded]({{ site.baseurl }}{% post_url 2018-12-10-post_13 %}) .__
+In 2019, the project will offer stipends to partnerships between libraries and local data intermediaries for field testing the toolkit. __These are now underway. [Read about the projects we funded](/post_13/) .__
 
 At any time, you can also be involved by reading (and providing feedback) on the [Civic Switchboard Guide and Toolkit](https://civic-switchboard.gitbook.io/guide/), and by participating in the community of practice discussion group [Civic Data Operators](https://groups.google.com/forum/#!forum/civic-data-operators/join).

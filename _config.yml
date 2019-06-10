@@ -92,7 +92,7 @@ og_image                 : "/assets/images/switchboard-200.jpg"
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
-  type                   : Organization 
+  type                   : "Organization" 
   name                   :  
   links: 
     - "https://twitter.com/civicswitch"

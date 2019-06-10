@@ -23,13 +23,22 @@
           alt="">
       </div>
     {% endif %}
-    <h2 class="archive__item-title" itemprop="headline">
-      {% if post.link %}
-        <a href="{{ post.link }}">{{ title }}</a> <a href="{{ post.url | relative_url }}" rel="permalink"><i class="fas fa-link" aria-hidden="true" title="permalink"></i><span class="sr-only">Permalink</span></a>
-      {% else %}
-        <a href="{{ post.url | relative_url }}" rel="permalink">{{ title }}</a>
+ {% if post.header.teaser %}
+      <div class="archive__item-teaser">
+        <a href="{{ post.url | relative_url }}"><img src=
+          {% if teaser contains "://" %}
+            "{{ teaser }}"
+          {% else %}
+            "{{ teaser | relative_url }}"
+          {% endif %}
+          alt="{{ post.title }}" width="575" height="216"></a>
+      </div>
       {% endif %}
-    </h2>
+      {% if post.link %}
+        <h3 class="archive__item-title" itemprop="headline"><a href="{{ post.link }}">{{ title }}</a> <a href="{{ post.url | relative_url }}" rel="permalink"><i class="fab fa-link" aria-hidden="true" title="permalink"></i><span class="sr-only">Permalink</span></a></h3>
+      {% else %}
+        <h3 class="archive__item-title" itemprop="headline"><a href="{{ post.url | relative_url }}" rel="permalink">{{ title }}</a></h3>
+{% endif %}
     <p class="page__meta">
       {% if post.last_modified_at %}
         <i class="fa fa-fw fa-calendar" aria-hidden="true"></i> <time datetime="{{ post.last_modified_at | date: "%Y-%m-%d" }}">{{ post.last_modified_at | date: "%B %d, %Y" }}</time>&emsp;

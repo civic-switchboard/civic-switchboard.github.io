@@ -8,7 +8,7 @@ header:
   overlay_filter: rgba(0,0,90, 0.5)
   actions:
     - label: "Read more in our Guide for Libraries"
-      url: ""https://civic-switchboard.gitbook.io/guide/
+      url: "https://civic-switchboard.gitbook.io/guide/"
 ---
 
 ![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/switchboard-200.jpg){: .align-left} 

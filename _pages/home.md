@@ -1,13 +1,13 @@
 ---
 layout: single 
 permalink: /
-title: "Civic Switchboard: Connecting Libraries and Community Information Networks"
-excerpt: "We believe libraries and library workers should be key actors in civic open data ecosystems and act as core data intermediaries"
+title: "Civic Switchboard"
+excerpt: "Connecting Libraries and Community Information Networks"
 header:
   overlay_image: /assets/images/ATL-mapping-ecosystems-2.jpg
-  overlay_filter: rgba(0,0,90, 0.5)
+  overlay_filter: rgba(0,0,90, 0.7)
   actions:
-    - label: "Read more in our Guide for Libraries"
+    - label: "Read more in our guide for libraries"
       url: "https://civic-switchboard.gitbook.io/guide/"
 ---
 

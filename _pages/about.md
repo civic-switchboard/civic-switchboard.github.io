@@ -3,20 +3,19 @@ layout: single
 permalink: /about/
 title: "About"
 ---
-The Civic Switchboard project design is based on two strong convictions. First, that cultivating a healthy local civic data ecosystem depends upon the coordinated efforts of a variety of data intermediaries. In other words, no single entity can effectively cover all of the necessary roles alone. To that end, our project team includes representation from a public library system (Carnegie Library of Pittsburgh), an academic library system (University of Pittsburgh), a regional open data portal (Western Pennsylvania Regional Data Center, hosted by the University of Pittsburgh Center for Social and Urban Research), and a national membership organization of non-library civic data intermediaries (National Neighborhood Indicators Partnership), coordinated by the Urban Institute. Cultivating and strengthening similar partnerships in other regions is a core objective of this project.
+The Civic Switchboard project is based on the idea that libraries and library workers should be key actors in civic open data ecosystems and act as core data intermediaries.
+
+Our project is designed around two strong convictions. First, that cultivating a healthy local civic data ecosystem depends upon the coordinated efforts of a variety of data intermediaries. No single entity can effectively cover all of the necessary roles alone. To that end, our project team includes representation from a public library system ([Carnegie Library of Pittsburgh](http://carnegielibrary.org)), an academic library system ([University of Pittsburgh](http://www.library.pitt.edu/)), a regional open data portal ([Western Pennsylvania Regional Data Center](http://wprdc.org), hosted by the University of Pittsburgh Center for Social and Urban Research), and a national membership organization of non-library civic data intermediaries ([National Neighborhood Indicators Partnership](http://www.neighborhoodindicators.org)), coordinated by the Urban Institute. Cultivating and strengthening similar partnerships in other regions is a core objective of this project.
 
 
 
-Secondly, we believe that the importance of local context and the variety of local civic data landscapes mean that no single model can be made to fit every city or region. This can be seen, for example, across the network of National Neighborhood Indicators Partnership data intermediaries. Because each community’s civic data ecosystem is unique, the structure of local data intermediaries have evolved to take different shapes. Modelling at the national level must be done by capturing a wide variety of successful local practices. Although the prior work of the project team members serves as an example of successful library participation in our local civic data ecosystem, this project is deliberately designed to involve a broad and diverse cohort of regional participants whose experiences will inform its outputs.
+Secondly, we believe that the importance of local context and the variety of local civic data landscapes mean that no single model can be made to fit every city or region. Modelling at the national level must be done by capturing a wide variety of successful local practices. This project is deliberately designed to involve a broad and diverse cohort of regional participants whose experiences will inform its outputs.
 
 
-Communities that wish to play a role in this project can also participate in two ways.
+There are a number of ways that your library or community can be involved.
 
+In 2018, the project team will host workshops at two conferences: The National Neighborhood Indicators Partnership (May 2018) and the Digital Library Federation (October 2018). __These workshops have now completed. Read recaps of the [Atlanta]({{ site.baseurl }}{% post_url 2018-05-30-post_8 %}) and [Las Vegas]({{ site.baseurl }}{% post_url 2018-12-05_post_12 %}) workshops.__ 
 
-In Year 1, to broaden networks and expand resources, the project team will host workshops at two conferences: The National Neighborhood Indicators Partnership (May 2018) and the Digital Library Federation (October 2018). Stipends will be available for libraries and data intermediary organizations interested in participating in these workshops; a limited number of complimentary registration fees for the associated conferences will also be available.
+In 2019, the project will offer stipends to partnerships between libraries and local data intermediaries for field testing the toolkit. __These are now underway. [Read about the projects we funded]({{ site.baseurl }}{% post_url 2018-12-10-post_13 %}) .__
 
-
-In Year 2, the project will offer stipends to partnerships between libraries and local data intermediaries for field testing the toolkit.
-
-
-We resolve to work in the open on this project, and commit to sharing information about our work as it evolves. We will regularly publish summaries of our progress on our project website, provide recaps of our major activity in a monthly email newsletter, draft periodic blog posts, and also engage with the broader community through social media.
+At any time, you can also be involved by reading (and providing feedback) on the [Civic Switchboard Guide and Toolkit](https://civic-switchboard.gitbook.io/guide/), and by participating in the community of practice discussion group [Civic Data Operators](https://groups.google.com/forum/#!forum/civic-data-operators/join).

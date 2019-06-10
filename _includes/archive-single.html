@@ -20,10 +20,10 @@
           {% else %}
             "{{ teaser | relative_url }}"
           {% endif %}
-          alt="">
+          alt="{{ post.title }}">
       </div>
     {% endif %}
- {% if post.header.teaser %}
+ {% if post.header.teaser and include.type != "grid" %}
       <div class="archive__item-teaser">
         <a href="{{ post.url | relative_url }}"><img src={% if teaser contains "://" %}"{{ teaser }}"{% else %}"{{ teaser | relative_url }}"{% endif %} alt="{{ post.title }}" height="250" width="575"></a>
       </div>

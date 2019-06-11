@@ -5,7 +5,6 @@ excerpt: "The Civic Data Operators group allows those working to connect librari
 
 ---
 
-
 ## Civic Data Operators: Group Guidelines
 
 The Civic Data Operators group allows those working to connect libraries with civic data in their local communities to exchange information and ideas and resources.

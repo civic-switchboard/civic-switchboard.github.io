@@ -3,7 +3,9 @@ layout: single
 permalink: /about/
 title: "About"
 ---
-Civic Switchboard is based on the idea that libraries and library workers should be __key actors in civic open data ecosystems__ and act as core data intermediaries. That role can take many forms: developing community data literacies, making civic data more usable, strengthening relationships between data producers, providing expertise on privacy and data management, publishing and archiving civic data, hosting events... the specifics will be different in different regions, but at the core is the goal of helping people find, use, and apply public information.
+Civic Switchboard is based on the idea that libraries and library workers should be __key actors in civic open data ecosystems__ and act as core data intermediaries. 
+
+That role can take many forms: developing community data literacies, making civic data more usable, strengthening relationships between data producers, providing expertise on privacy and data management, publishing and archiving civic data, hosting events... the specifics will be different in different regions, but at the core is the goal of helping people find, use, and apply public information.
 
 The project is designed around two strong convictions. First, that cultivating a healthy local civic data ecosystem depends upon the coordinated efforts of a variety of data intermediaries. No single entity (e.g. your library) can effectively cover all of the necessary roles alone. To that end, our project team includes representation from:
 *  A public library system - [Carnegie Library of Pittsburgh](http://carnegielibrary.org)

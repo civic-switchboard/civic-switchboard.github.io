@@ -29,9 +29,9 @@
       </div>
       {% endif %}
       {% if post.link %}
-        <h3 class="archive__item-title" itemprop="headline"><a href="{{ post.link }}">{{ title }}</a> <a href="{{ post.url | relative_url }}" rel="permalink"><i class="fab fa-link" aria-hidden="true" title="permalink"></i><span class="sr-only">Permalink</span></a></h3>
+        <h2 class="archive__item-title" itemprop="headline"><a href="{{ post.link }}">{{ title }}</a> <a href="{{ post.url | relative_url }}" rel="permalink"><i class="fab fa-link" aria-hidden="true" title="permalink"></i><span class="sr-only">Permalink</span></a></h2>
       {% else %}
-        <h3 class="archive__item-title" itemprop="headline"><a href="{{ post.url | relative_url }}" rel="permalink">{{ title }}</a></h3>
+        <h2 class="archive__item-title" itemprop="headline"><a href="{{ post.url | relative_url }}" rel="permalink">{{ title }}</a></h2>
 {% endif %}
     <p class="page__meta">
       {% if post.last_modified_at %}

@@ -1,8 +1,8 @@
 ---
 layout: single
 title: "Civic Data Operators: Group Guidelines"
-redirect_from: group.html
 excerpt: "The Civic Data Operators group allows those working to connect libraries with civic data in their local communities to exchange information and ideas and resources."
+
 ---
 
 

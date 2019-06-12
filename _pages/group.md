@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Civic Data Operators: Group Guidelines"
+title: "_Civic Data Operators_ Discussion Group"
 redirect_from: group.html
 permalink: /group/
 excerpt: "The Civic Data Operators group allows those working to connect libraries with civic data in their local communities to exchange information, ideas, and resources."
@@ -10,6 +10,8 @@ excerpt: "The Civic Data Operators group allows those working to connect librari
 The **Civic Data Operators** group allows those working to connect libraries with civic data in their local communities to exchange information and ideas and resources. While the Civic Switchboard project has been an promoter of this community, it is our hope for this group to have its own identity and sense of ownership beyond any particular project.
 
 Visit the Google group to join the list [here](https://groups.google.com/forum/#!forum/civic-data-operators/join).
+
+## Group Guidelines
 
 Subscribers can ask questions, carry on discussions, and post materials from other sources they think would be of interest to the group. The list is public and not moderated, but admins reserve the right to delete messages that are markedly off-subject or inappropriate (advertisements, solicitations, partisan political tracts, etc.)  Subscribers are responsible for obtaining permission ahead of time before they post anything that is not clearly in the public domain. 
 

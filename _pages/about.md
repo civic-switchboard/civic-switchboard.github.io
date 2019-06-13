@@ -2,6 +2,7 @@
 layout: single 
 permalink: /about/
 title: "About"
+excerpt: "About the Civic Switchboard project"
 ---
 Civic Switchboard is based on the idea that libraries and library workers should be __key actors in civic open data ecosystems__ and act as core data intermediaries. 
 

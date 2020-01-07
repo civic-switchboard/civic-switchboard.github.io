@@ -13,7 +13,6 @@ header:
     - label: "Read more in our guide for libraries"
       url: "https://civic-switchboard.gitbook.io/guide/"
 ---
-
 ## [CALL FOR 2020 FIELD PROJECT PROPOSALS NOW OPEN!](https://civic-switchboard.github.io/post_16/)
 
 ![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/switchboard-200.jpg){: .align-left} 

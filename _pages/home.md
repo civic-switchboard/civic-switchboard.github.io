@@ -14,6 +14,8 @@ header:
       url: "https://civic-switchboard.gitbook.io/guide/"
 ---
 
+## [CALL FOR 2020 FIELD PROJECT PROPOSALS NOW OPEN!](https://civic-switchboard.github.io/post_16/)
+
 ![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/switchboard-200.jpg){: .align-left} 
 Civic Switchboard is an [Institute of Museum and Library Services](https://www.imls.gov) supported effort that aims to develop the capacity of academic and public libraries in civic data ecosystems.
 
@@ -23,7 +25,7 @@ We encourage partnerships between libraries and local data intermediaries that w
 
 ## Stay Informed
 
-### [CALL FOR 2020 FIELD PROJECT PROPOSALS NOW OPEN!](https://civic-switchboard.github.io/post_16/)
+## [CALL FOR 2020 FIELD PROJECT PROPOSALS NOW OPEN!](https://civic-switchboard.github.io/post_16/)
 
 [Sign up](http://eepurl.com/dceWk9) to receive more information about upcoming opportunities, read our [blog posts](/blog/), check out our [guide](https://civic-switchboard.gitbooks.io/guide/content/) (in development), and follow us on [twitter](https://twitter.com/civicswitch) and [GitHub](https://github.com/orgs/civic-switchboard/).
 .

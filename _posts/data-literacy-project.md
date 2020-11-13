@@ -1,0 +1,33 @@
+---
+title: "Announcing Civic Switchboard Data Literacy Project"
+excerpt: "We are pleased to announce the receipt of a IMLS Laura Bush 21st Century Librarian Program Grant"
+permalink: /post_18/
+header:
+  teaser: /assets/images/geophysical.jpg
+  overlay_image: /assets/images/geophysical.jpg
+  overlay_filter: 0.5
+  caption: "Image from page 843 of "Early geophysical papers of the Society of Exploration Geophysicists" (1947). Courtesy of Internet Archive Book Images"
+show_overlay_excerpt: false
+---
+
+### Introducing the Civic Switchboard Data Literacy Project!
+
+We’re pleased to announce the receipt of a [IMLS Laura Bush 21st Century Librarian Program Grant](https://www.imls.gov/grants/awarded/re-246295-ols-20), which will support the next piece of Civic Switchboard project -- the Civic Switchboard Data Literacy project! This project builds on the Civic Switchboard project’s exploration of [civic data roles for libraries](https://civic-switchboard.gitbook.io/guide/library-roles) and will develop instructional materials to prepare MLIS students and current library workers for civic data work. 
+
+Through the Civic Switchboard project, we’ve learned about [common barriers to entry](https://civic-switchboard.gitbook.io/guide/engaging-partners/common-barriers) that libraries are navigating with civic data work. We regularly heard library workers say that they feel unqualified to participate in their civic data ecosystems. With this barrier in mind, the Civic Switchboard Data Literacy project will build and pilot instructional material that MLIS instructors can integrate in coursework and that can be used in professional development training in library settings.
+
+The University of Pittsburgh-based Civic Switchboard Data Literacy project team includes: 
+
+* Jacob Biehl, Associate Professor at the School of Computing and Information 
+* Matt Burton: Teaching Assistant Professor at the School of Computing and Information
+* Kahlila Chaar-Pérez, Postdoctoral Associate at the School of Computing and Information 
+* Bob Gradeck, Project Director at the Western Pennsylvania Regional Data Center
+* Eleanor Mattern (PI), Teaching Assistant Professor at the School of Computing and Information
+* Liz Monk, Project Manager at the Western Pennsylvania Regional Data Center
+* Marcia Rapchak, Teaching Assistant Professor at the School of Computing and Information
+
+We’re joined by a team of advisors who work as civic data intermediaries, library workers in public and academic libraries, and faculty in MLIS programs. Our advisors will provide feedback to the team members as we plan and develop our instructional materials.
+
+We’ll be using the Civic Switchboard website to share instructional materials as we develop them and our communications channels, including the [Civic Switchboard Twitter account](https://twitter.com/civicswitch) and the [Civic Data Operators Discussion Group](https://civic-switchboard.github.io/group/), for updates as we move forward with our work.
+
+We’re grateful to the IMLS for supporting this work and eager to share with you instructional materials to adopt for your LIS courses and library professional development initiatives!

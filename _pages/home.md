@@ -31,7 +31,7 @@ We encourage partnerships between libraries and local data intermediaries that w
 
 [civic-switchboard@pitt.edu](mailto:civic-switchboard@pitt.edu)
 
-## Team
+## Civic Switchboard Team
 
 *  **Aaron Brenner**, The University Library System at the University of Pittsburgh
 *  **Bob Gradeck**, Western Pennsylvania Regional Data Center
@@ -41,3 +41,14 @@ We encourage partnerships between libraries and local data intermediaries that w
 *  **Liz Monk**, Western Pennsylvania Regional Data Center
 *  **Kathy Pettit**, National Neighborhood Indicators Partnership
 *  **Eleanor Tutt** (until October 2018), formerly of Carnegie Library of Pittsburgh 
+
+## Civic Switchboard Data Literacy Team
+
+*  **Jacob Biehl**, Associate Professor at the School of Computing and Information, University of Pittsburgh
+*  **Matt Burton**, Teaching Assistant Professor at the School of Computing and Information, University of Pittsburgh
+*  **Kahlila Chaar-Pérez**, Postdoctoral Associate at the School of Computing and Information, University of Pittsburgh
+*  **Bob Gradeck**, Project Director at the Western Pennsylvania Regional Data Center
+*  **Eleanor Mattern (PI)**, Teaching Assistant Professor at the School of Computing and Information, University of Pittsburgh
+*  **Liz Monk**, Project Manager at the Western Pennsylvania Regional Data Center
+*  **Marcia Rapchak**, Teaching Assistant Professor at the School of Computing and Information, University of Pittsburgh
+

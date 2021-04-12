@@ -1,0 +1,61 @@
+---
+title: "Discussion Report: What's next for libraries and civic data partnerships?"
+excerpt: "Report out on library and civic data partnerships discussion"
+permalink: /post_19/
+header:
+  teaser: /assets/images/frenchsilk.jpg
+  overlay_image: /assets/images/frenchsilk.jpg
+  overlay_filter: 0.5
+  caption: "French Silk Sample Book (ca. 1900). Courtesy of Sterling and Francine Clark Art Institute Library"
+show_overlay_excerpt: false
+---
+
+### Discussion Report: What's next for libraries and civic data partnerships?
+
+A few weeks ago the Civic Switchboard project hosted an open discussion for people working in libraries and open civic data space. As the original Civic Switchboard funding period nears its close, we hoped to convene practitioners from this community for a conversation about what's next, what's needed, and what they're finding inspiring. The discussion also continued the thread of "community of practice" calls, which have been great opportunities to informally share experiences and make connections with colleagues across different regions.
+
+Around twenty-five people were able to join, from locations as varied as Juneau, Alaska; West Palm Beach, Florida; Buffalo, NY; Palo Alto, CA; and many spots in between. Participants' roles were also varied, including LIS educators, public and academic librarians, state and local government workers, and program managers at library-focused organizations. 
+
+After a brief recap of recent Civic Switchboard project activities (such as the work on data literacy curriculum we've shared [here]( https://civic-switchboard.github.io/post_18/) earlier), participants started with twenty minutes of small group networking conversations.  The groups were offered some prompts  to start discussion (What civic data projects are you working on at your library or with libraries now? What do you hope to be working on over the next year?), but conversations seemed to flow naturally!
+
+We've found opportunities to get to know each other have been very appreciated because there aren't too many other venues that bring together the range of people doing this specific kind of work. 
+
+Next, we reconfigured into a few slightly larger groups, to move the conversation from  what's happening now to what could happen next? Below are some of the prompts used for that discussion, and some of the responses in discussion:
+
+**What kinds of library and civic data projects do you want to be involved with going forward? What do you want to do?**
+
+* Encouraging libraries collecting basic civic data; tapping into local data sets that are more specific, drill down to census tract, neighborhood levels easy for libraries to use.
+
+* Collection and preservation of city and county data; clarifying copyright of the data; teaching future librarians about open data collect it, archive it, understand methods, including records request 
+
+* A lot of public data is only the most recent, can be harder  to get the archived data (e.g. housing, sidewalk prices)
+
+* Instructional aspect, pedagogy, accessibility; relationships for libraries with data and community intermediaries, empower people to work with data in their communities
+
+* Supporting libraries and how they are using data in decision making. Getting professionals in the library to have that literacy, which also becomes a pathway for education and access back to the community.
+
+* Work that creates partnerships between academic and public libraries
+
+* Digital Equity is becoming increasingly a focus -- need spaces to talk about and work on this
+
+* Community data collection projects -- kits, school collaborations -- models/inspiration in a book (“Data Feminism”)[https://mitpress.mit.edu/books/data-feminism]
+
+**How do you want to stay connected and be engaged with peers in this field?**
+
+* Would love for this group to keep going, even as simple as a quarterly Zoom call for check in
+
+* Would love more librarian to librarian events in addition to connecting with other communities
+
+* "Can't overstate how important having a group of people to talk to is, when you feel like you're [the only one] working on civic data..."
+
+* Sessions on libraries and civic data that were alongside conferences were great, but the challenge is finding the right conference / field.
+
+* Need to make connections with people in different domains, may be inspired by (Community Engagement Fellows model)[https://www.cefellows.org/guide] 
+
+**What challenges/barriers are libraries facing when engaging with civic data?**
+
+*Seeing a trend of more people asking about health information, social services. 
+
+*Libraries desire to connect with other community data partners, but it can be hard to gain entry / build the relationship
+
+We're grateful for everyone who was able to join, and for their energy, enthusiasm, and generous sharing of ideas. If you weren't able to join, we hope these notes give some sense of the conversation. Scheduling can be challenging, so we also remind you that you're always encouraged to chat on the [Civic Data Operators group](https://civic-switchboard.github.io/group/), as well as join the [mailing list](https://civicswitchboard.us17.list-manage.com/subscribe?u=530c4fdb234145e8e1e6b5307&id=3ae069cc9d) for notifications about future conversations.

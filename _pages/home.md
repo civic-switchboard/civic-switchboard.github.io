@@ -51,4 +51,5 @@ We encourage partnerships between libraries and local data intermediaries that w
 *  **Eleanor Mattern (PI)**, Teaching Assistant Professor at the School of Computing and Information, University of Pittsburgh
 *  **Liz Monk**, Project Manager at the Western Pennsylvania Regional Data Center
 *  **Marcia Rapchak**, Teaching Assistant Professor at the School of Computing and Information, University of Pittsburgh
+*  **Jane Thaler**, Doctoral Candidate at the School of Computing and Information, University of Pittsburgh
 

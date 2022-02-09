@@ -44,12 +44,12 @@ We encourage partnerships between libraries and local data intermediaries that w
 
 ## Civic Switchboard Data Literacy Team
 
-*  **Jacob Biehl**, Associate Professor at the School of Computing and Information, University of Pittsburgh
-*  **Matt Burton**, Teaching Assistant Professor at the School of Computing and Information, University of Pittsburgh
-*  **Kahlila Chaar-Pérez**, Postdoctoral Associate at the School of Computing and Information, University of Pittsburgh
-*  **Bob Gradeck**, Project Director at the Western Pennsylvania Regional Data Center
 *  **Eleanor Mattern (PI)**, Teaching Assistant Professor at the School of Computing and Information, University of Pittsburgh
-*  **Liz Monk**, Project Manager at the Western Pennsylvania Regional Data Center
 *  **Marcia Rapchak**, Teaching Assistant Professor at the School of Computing and Information, University of Pittsburgh
+*  **Kahlila Chaar-Pérez**, Postdoctoral Associate at the School of Computing and Information, University of Pittsburgh
+*  **Liz Monk**, Project Manager at the Western Pennsylvania Regional Data Center
 *  **Jane Thaler**, Doctoral Candidate at the School of Computing and Information, University of Pittsburgh
+*  **Bob Gradeck**, Project Director at the Western Pennsylvania Regional Data Center
+*  **Matt Burton**, Teaching Assistant Professor at the School of Computing and Information, University of Pittsburgh
+*  **Jacob Biehl**, Associate Professor at the School of Computing and Information, University of Pittsburgh
 

@@ -3,7 +3,7 @@ title: "Introducing a Civic Switchboard Institute "
 excerpt: "Civic Switchboard Project Awarded IMLS Laura Bush 21st Century Librarian Grant"
 permalink: /civic-switchboard-institute/
 header:
-  teaser: /assets/images/gartside-colour-4.jpg
+  teaser: /assets/images/flock.jpg
   overlay_image: /assets/images/flock.jpg
   overlay_filter: 0.5
   caption: 

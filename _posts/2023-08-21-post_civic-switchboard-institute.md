@@ -47,4 +47,4 @@ This project will expand a community of practice around civic data in libraries 
 
 We can also be contacted at: civic-switchboard@pitt.edu
 
-We hope you will join us for the Civic Switchboard Institute and community of practice programming! You can find our [IMLS project proposal](https://www.imls.gov/grants/awarded/re-254899-ols-23)on the IMLS website.
+We hope you will join us for the Civic Switchboard Institute and community of practice programming! You can find our [IMLS project proposal](https://www.imls.gov/grants/awarded/re-254899-ols-23) on the IMLS website.

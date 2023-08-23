@@ -15,11 +15,11 @@ show_overlay_excerpt: false
 The Pittsburgh-based Civic Switchboard team and partners from around the country are pleased to announce the receipt of a Laura Bush 21st Century Librarian Grant from the Institute of Museum and Library Services (IMLS). This [IMLS funding program](https://www.imls.gov/grants/available/laura-bush-21st-century-librarian-program) supports projects that train library and archival professions in areas that address the information needs of their communities.  
 
 The University of Pittsburgh-based team includes:    
-Nora Mattern (PI), School of Computing and Information   
-Aaron Brenner, University Library System  
-Chelsea Gunn, School of Computing and Information  
-Liz Monk, University Center for Social and Urban Research  
-Marcia Rapchak, School of Computing and Information   
+* Nora Mattern (PI), School of Computing and Information   
+* Aaron Brenner, University Library System  
+* Chelsea Gunn, School of Computing and Information  
+* Liz Monk, University Center for Social and Urban Research  
+* Marcia Rapchak, School of Computing and Information   
 
 Through our *Civic Data Literacy for Libraries: A Civic Switchboard Institute* project, we will host six regional and one online institutes for library workers interested in serving as intermediaries between community members and civic data and developing civic data roles for their libraries.  
 

@@ -18,7 +18,7 @@ header:
 ![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/switchboard-200.jpg){: .align-left} 
 Civic Switchboard is an [Institute of Museum and Library Services](https://www.imls.gov) supported effort that aims to develop the capacity of academic and public libraries in civic data ecosystems.
 
-We encourage partnerships between libraries and local data intermediaries that will better serve data users, further democratize data, and support equitable access to information. Our project is created an online [guide and toolkit](https://civic-switchboard.gitbook.io/guide/) for libraries interested in expanding (or beginning) their role around civic information.
+We encourage partnerships between libraries and local data intermediaries that will better serve data users, further democratize data, and support equitable access to information. Our project created an online [guide and toolkit](https://civic-switchboard.gitbook.io/guide/) for libraries interested in expanding (or beginning) their role around civic information.
 
 We also published two designed (and printable) versions of the guide: 
 * [Civic Switchboard - Connecting Libraries and Community Information Networks](https://civic-switchboard.github.io/assets/guide/Civic_Switchboard_Guide.pdf) 
@@ -48,14 +48,4 @@ We also published two designed (and printable) versions of the guide:
 *  **Kathy Pettit**, National Neighborhood Indicators Partnership
 *  **Eleanor Tutt** (until October 2018), formerly of Carnegie Library of Pittsburgh 
 
-## Civic Switchboard Data Literacy Team
-
-*  **Eleanor Mattern (PI)**, Teaching Assistant Professor at the School of Computing and Information, University of Pittsburgh
-*  **Marcia Rapchak**, Teaching Assistant Professor at the School of Computing and Information, University of Pittsburgh
-*  **Kahlila Chaar-Pérez**, Postdoctoral Associate at the School of Computing and Information, University of Pittsburgh
-*  **Liz Monk**, Project Manager at the Western Pennsylvania Regional Data Center
-*  **Jane Thaler**, Doctoral Candidate at the School of Computing and Information, University of Pittsburgh
-*  **Bob Gradeck**, Project Director at the Western Pennsylvania Regional Data Center
-*  **Matt Burton**, Teaching Assistant Professor at the School of Computing and Information, University of Pittsburgh
-*  **Jacob Biehl**, Associate Professor at the School of Computing and Information, University of Pittsburgh
 

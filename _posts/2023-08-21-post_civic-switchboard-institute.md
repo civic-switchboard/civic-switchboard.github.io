@@ -12,7 +12,7 @@ show_overlay_excerpt: false
 
 ## Civic Switchboard Project Awarded IMLS Laura Bush 21st Century Librarian Grant
 
-The Pittsburgh-based Civic Switchboard team and partners from around the country are pleased to announce the receipt of a Laura Bush 21st Century Librarian Grant from the Institute of Museum and Library Services (IMLS). This [IMLS funding program](https://www.imls.gov/grants/available/laura-bush-21st-century-librarian-program) supports projects that train library and archival professions in areas that address the information needs of their communities.  
+The Pittsburgh-based Civic Switchboard team and partners from around the country are pleased to announce the receipt of a Laura Bush 21st Century Librarian Grant from the Institute of Museum and Library Services (IMLS). This [IMLS funding program](https://www.imls.gov/grants/available/laura-bush-21st-century-librarian-program) supports projects that train library and archival professionals in areas that address the information needs of their communities.  
 
 The University of Pittsburgh-based team includes:    
 * Nora Mattern (PI), School of Computing and Information   

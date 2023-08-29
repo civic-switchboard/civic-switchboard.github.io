@@ -40,7 +40,7 @@ Through our *Civic Data Literacy for Libraries: A Civic Switchboard Institute* p
 ### We are pleased to be working with incredible regional partners who will host the 2-day Institutes in 2024:
 * Alex Chassanoff (University of North Carolina Chapel Hill) for a Chapel Hill, NC workshop
 * The Data Services at Fondren Library at Rice University for a Houston, TX workshop;
-* Matthew Sisk (Notre Dame University) for a South Bend, IN workshop;
+* Matthew Sisk (The University of Notre Dame) for a South Bend, IN workshop;
 * Nancee Hunter (Portland State University) for a Portland, OR workshop;
 * Garrett Dash Nelson and Ian Spangler (Leventhal Map & Education Center at the Boston Public Library) for a Boston, MA workshop.
 * Pittsburgh, PA, the location of the Civic Switchboard team, will also serve as a workshop site, and we will offer one entirely online workshop.

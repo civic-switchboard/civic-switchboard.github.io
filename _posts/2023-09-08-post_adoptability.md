@@ -1,7 +1,7 @@
 ---
 title: "Adoptability and Reusability of Data and Digital Literacy Materials "
 excerpt: "Civic Switchboard project team explores the reuse of data and digital literacy materials"
-permalink: /civic-switchboard-institute/
+permalink: /adoptability/
 header:
   teaser: /assets/images/sea glass.jpg
   overlay_image: /assets/images/sea glass.jpg
@@ -10,7 +10,7 @@ header:
   show_overlay_excerpt: false
 ---
 
-Members of the Civic Switchboard team have been working on a project exploring the adoptability and reusability of data and digital literacy materials... 
+Members of the Civic Switchboard team have been working on a project exploring the adoptability and reusability of data and digital literacy materials. 
 
 ### About the Project
 
@@ -53,15 +53,15 @@ During the focus group session, we asked participants to spend time with the OER
 
 Using the examples that they brought to the focus group, the participants introduced a number of themes that support reuse and adoption of OER:
 
-Modularity: In both focus group sessions, participants emphasized the value of modular materials that allow for segments to be integrated into curriculum or a program. One participant observed that marking materials to indicate how much time is needed to use the segment in a lesson is valuable (e.g “if you have 10 minutes in a lesson, use this activity”)
+**Modularity**: In both focus group sessions, participants emphasized the value of modular materials that allow for segments to be integrated into curriculum or a program. One participant observed that marking materials to indicate how much time is needed to use the segment in a lesson is valuable (e.g “if you have 10 minutes in a lesson, use this activity”)
 
-Trust: The concept of trust was woven throughout the discussions. Participants noted that familiarity with the creators or the organization managing the resources gave them confidence in their quality. The use of a peer review process as part of the instruction design work also contributed to trust. 
+**Trust**: The concept of trust was woven throughout the discussions. Participants noted that familiarity with the creators or the organization managing the resources gave them confidence in their quality. The use of a peer review process as part of the instruction design work also contributed to trust. 
 
-Stories of Use: Finally, having case studies of individuals using the materials helps other users to understand how the resources can be leveraged for instruction and applicable scenarios for use. For example, users valued learning whether a library adopted a resource for a particular type of workshop that may be offered in their own library. Stories of use also supported trust in the materials by acting as a form of vetting.
+**Stories of Use**: Finally, having case studies of individuals using the materials helps other users to understand how the resources can be leveraged for instruction and applicable scenarios for use. For example, users valued learning whether a library adopted a resource for a particular type of workshop that may be offered in their own library. Stories of use also supported trust in the materials by acting as a form of vetting.
 
-Simple and adaptable design: Participants emphasized that resources that are as easy to adapt as possible are the most usable. Simplicity is associated with clear metadata and documentation, but also in design decisions. For example, known formats and tools (e.g. PowerPoint slides) encourage reuse as it reduces a learning barrier for editing and adoption. Formats that allow for easy local updates were valued (e.g. PowerPoint versus pdf format).
+**Simple and adaptable design**: Participants emphasized that resources that are as easy to adapt as possible are the most usable. Simplicity is associated with clear metadata and documentation, but also in design decisions. For example, known formats and tools (e.g. PowerPoint slides) encourage reuse as it reduces a learning barrier for editing and adoption. Formats that allow for easy local updates were valued (e.g. PowerPoint versus pdf format).
 
-Documentation: Facilitator guides that provide recommendations for local adoption and metadata that clearly captures the “aboutness” of the resource were seen as critical components for reusability.
+**Documentation**: Facilitator guides that provide recommendations for local adoption and metadata that clearly captures the “aboutness” of the resource were seen as critical components for reusability.
 
 ### Next Steps in our Project
 

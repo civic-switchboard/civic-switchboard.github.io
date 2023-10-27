@@ -12,7 +12,7 @@ header:
 ---
 
 
-The Pittsburgh-based Civic Switchboard team and partners from around the country are pleased to announce the schedule for the 2024 Civic Switchboard Institute. Through the support of the Institute of Museum and Library Services (IMLS), we will host one online and 6 regional 2-day institutes for library workers who are interested in serving as intermediaries between community members and civic data and in developing civic data roles for their libraries.  
+The Pittsburgh-based Civic Switchboard team and partners from around the country are pleased to announce the schedule for the 2024 Civic Switchboard Institute. Through the support of the Institute of Museum and Library Services (IMLS), we will host one online and 6 regional 2-day institutes for library workers who are interested in serving as intermediaries between community members and civic data and in developing civic data roles for their libraries.  Read more about the project on our [introductory blog post](https://civic-switchboard.github.io/civic-switchboard-institute/). 
 
 ### The Civic Switchboard Institute Schedule
 
@@ -49,7 +49,7 @@ Register for the November 9, 2023, 12 - 1pm Eastern call: [Zoom Registration](ht
 
 ### Stay Engaged!
 
-We hope you will join us for the Civic Switchboard Institute and community of practice programming. You can find our IMLS project proposal on the IMLS website. 
+We hope you will join us for the Civic Switchboard Institute and community of practice programming. You can find our [IMLS project proposal](https://www.imls.gov/grants/awarded/re-254899-ols-23) on the IMLS website. 
 
 Please sign up for the [Civic Data Operators Discussion Group](https://pitt.zoom.us/meeting/register/tJMode6urD0jH9Bn-e11f4iiO7_Gy7YoxQMj#/registration) to receive email updates about the Institutes and future dates for the community calls! We can also be contacted at: civic-switchboard@pitt.edu
 

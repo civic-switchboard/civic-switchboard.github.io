@@ -1,12 +1,12 @@
 ---
 title: "Announcing the Civic Switchboard Institute Schedule and November 9 Community of Practice Call "
-excerpt: "Civic Switchboard project team shares dates and details about upcoming CoP"
+excerpt: "Civic Switchboard project team shares institute dates and details about upcoming CoP"
 permalink: /institutes/
 header:
-  teaser: /assets/images/ecosystemLV.jpg
-  overlay_image: /assets/images/ecosystemLV.jpg
+  teaser: /assets/images/gradient.jpg
+  overlay_image: /assets/images/gradient.jpg
   overlay_filter: 0.5
-  caption: Photo by Civic Switchboard Project Team
+  caption: Photo by César Couto on Unsplash
   show_overlay_excerpt: false
 ---
 

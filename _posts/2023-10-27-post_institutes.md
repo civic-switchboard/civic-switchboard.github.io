@@ -3,10 +3,11 @@ title: "Announcing the Civic Switchboard Institute Schedule and November 9 Commu
 excerpt: "Civic Switchboard project team shares institute dates and details about upcoming CoP"
 permalink: /institutes/
 header:
-  teaser: /assets/images/gradient.jpg
-  overlay_image: /assets/images/gradient.jpg
+  teaser: /assets/images/ponies.jpg
+  overlay_image: /assets/images/ponies.jpg
   overlay_filter: 0.5
-  caption: Photo by César Couto on Unsplash
+  caption: Photo by Christine Mendoza on Unsplash
+  
   show_overlay_excerpt: false
 ---
 

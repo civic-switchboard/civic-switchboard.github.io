@@ -6,9 +6,8 @@ permalink: /2024-institutes/
 excerpt: ""
 
 ---
-
-Through our Civic Data Literacy for Libraries: A Civic Switchboard Institute project, we will host 
-six regional and one online institutes for library workers interested in serving as intermediaries 
+Through our _Civic Data Literacy for Libraries: A Civic Switchboard Institute_ project, we will host 
+six regional and one online institutes in 2024 for library workers interested in serving as intermediaries 
 between community members and civic data and developing civic data roles for their libraries.
 
 ## Institute Schedule
@@ -21,6 +20,7 @@ between community members and civic data and developing civic data roles for the
 * October 17-18, 2024: Houston, TX Institute
 * November 7 and 14, 2024: Online Institute
 
+---
 
 There are several goals for the Civic Switchboard Institutes:
 

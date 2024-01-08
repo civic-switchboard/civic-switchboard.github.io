@@ -6,6 +6,8 @@ main:
     url: /blog/
   - title: "Guide"
     url: https://civic-switchboard.gitbook.io/guide/
+  - title: "2024 Institutes"
+    url: /2024-institutes/
   - title: "Discussion Group"
     url: /group/
   - title: "Education Series"

@@ -3,7 +3,7 @@ layout: single
 title: "Civic Switchboard 2024 Institutes"
 redirect_from: group.html
 permalink: /2024-institutes/
-excerpt: ""
+excerpt: "We will host six regional and one online institutes in 2024 for library workers interested in serving as intermediaries between community members and civic data and developing civic data roles for their libraries."
 
 ---
 Through our _Civic Data Literacy for Libraries: A Civic Switchboard Institute_ project, we will host 

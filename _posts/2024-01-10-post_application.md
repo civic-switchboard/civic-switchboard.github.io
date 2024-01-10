@@ -10,8 +10,7 @@ header:
   
   show_overlay_excerpt: false
 ---
-### 
-
+### Applications Open for Civic Switchboard Institute in Pittsburgh!
 Through the support of the Institute of Museum and Library Services (IMLS), we are pleased to be hosting six regional and one online **Civic Switchboard Institutes** in 2024. 
 
 Applications are now open for the first of the regional Institutes in **Pittsburgh, PA on April 18-19, 2024**! Participants who are traveling from outside of Pittsburgh are eligible to receive an honorarium to offset travel expenses.

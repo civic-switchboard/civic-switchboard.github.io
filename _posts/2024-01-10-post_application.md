@@ -3,10 +3,10 @@ title: "Applications Open for Civic Switchboard Institute in Pittsburgh!"
 excerpt: "Apply now!"
 permalink: /application/
 header:
-  teaser: /assets/images/point.jpg
-  overlay_image: /assets/images/point.jpg
+  teaser: /assets/images/pittsburgh point.jpg
+  overlay_image: /assets/images/pittsburgh point.jpg
   overlay_filter: 0.5
-  caption: The Three Rivers, Pittsburgh, Pa. Postcard, photo by Rau, ca. 1907-1911. AIS Postcard Collection, Archives Service Center, University of Pittsburgh 
+  caption: 1913 Concept Plan for the Point, October 22, 1913.” —Pittsburgh City Photographer Collection, 1901-2002, AIS.1971.05, Archives Service Center, University of Pittsburgh
   
   show_overlay_excerpt: false
 ---

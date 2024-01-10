@@ -3,10 +3,10 @@ title: "Applications Open for Civic Switchboard Institute in Pittsburgh!"
 excerpt: "Apply now!"
 permalink: /application/
 header:
-  teaser: /assets/images/pittsburgh.jpg
-  overlay_image: /assets/images/pittsburgh.jpg
+  teaser: /assets/images/point.jpg
+  overlay_image: /assets/images/point.jpg
   overlay_filter: 0.5
-  caption: Photo by Liz Monk
+  caption: The Three Rivers, Pittsburgh, Pa. Postcard, photo by Rau, ca. 1907-1911. AIS Postcard Collection, Archives Service Center, University of Pittsburgh 
   
   show_overlay_excerpt: false
 ---
@@ -43,7 +43,7 @@ Please see the [application](https://docs.google.com/forms/d/e/1FAIpQLScnwNbey3V
 ### Schedule for the Regional and Online Institutes
 **Applications for more regional Civic Switchboard Institutes and the online Institute will open in the upcoming weeks and months!**
 
-We are pleased to be working with partners at The University of North Carolina at Chapel Hill, [Leventhal Map & Education Center](https://www.leventhalmap.org/) at the [Boston Public Library](https://www.bpl.org/), Portland State University, the University of Notre Dame, and Rice University to host a series of Institutes around the country. 
+We are pleased to be working with partners at The University of North Carolina at Chapel Hill, Leventhal Map & Education Center at the Boston Public Library, Portland State University, the University of Notre Dame, and Rice University to host a series of Institutes around the country. 
  
 * April 18-19, 2024 : Pittsburgh, PA Institute
 * May 13-14, 2024: Chapel Hill, NC Institute (Applications will open January 26)

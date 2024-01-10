@@ -1,5 +1,5 @@
 ---
-title: "Applications Open for Civic Switchboard Institute"
+title: "Applications Open for Civic Switchboard Institute in Pittsburgh!"
 excerpt: "Applications are open for the first institute held in Pittsburgh"
 permalink: /application/
 header:
@@ -10,7 +10,7 @@ header:
   
   show_overlay_excerpt: false
 ---
-### Applications Open for Civic Switchboard Institute in Pittsburgh!
+### 
 
 Through the support of the Institute of Museum and Library Services (IMLS), we are pleased to be hosting six regional and one online **Civic Switchboard Institutes** in 2024. 
 

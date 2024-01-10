@@ -1,6 +1,6 @@
 ---
 title: "Applications Open for Civic Switchboard Institute in Pittsburgh!"
-excerpt: "Applications are open for the first institute held in Pittsburgh"
+excerpt: "Apply now!"
 permalink: /application/
 header:
   teaser: /assets/images/pittsburgh.jpg

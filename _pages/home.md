@@ -39,13 +39,11 @@ We also published two designed (and printable) versions of the guide:
 
 ## Civic Switchboard Team
 
+*  **Eleanor "Nora" Mattern**, (PI) School of Computing and Information, University of Pittsburgh
 *  **Aaron Brenner**, The University Library System at the University of Pittsburgh
 *  **Bob Gradeck**, Western Pennsylvania Regional Data Center
-*  **Toby Greenwalt**, Carnegie Library of Pittsburgh
-*  **Julia Marden** (from July 2019), Carnegie Library of Pittsburgh 
-*  **Eleanor "Nora" Mattern**, School of Computing and Information, University of Pittsburgh
+*  **Chelsea Gunn**, School of Computing and Information, University of Pittsburgh
 *  **Liz Monk**, Western Pennsylvania Regional Data Center
-*  **Kathy Pettit**, National Neighborhood Indicators Partnership
-*  **Eleanor Tutt** (until October 2018), formerly of Carnegie Library of Pittsburgh 
+*  **Marcia Rapchak**, School of Computing and Information, University of Pittsburgh
 
 

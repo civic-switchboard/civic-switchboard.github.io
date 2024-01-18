@@ -12,7 +12,7 @@ between community members and civic data and developing civic data roles for the
 
 ## Institute Schedule
 
-* April 18-19, 2024 : Pittsburgh, PA Institute
+* April 18-19, 2024 : Pittsburgh, PA Institute ([Apply here](https://docs.google.com/forms/d/e/1FAIpQLScnwNbey3VlmDFImyMKJG0wuej8df9nW_2UWlpj7uqfG_HyVw/viewform))
 * May 13-14, 2024: Chapel Hill, NC Institute
 * June 27-28, 2024: Boston, MA Institute
 * July 11-12, 2024: Portland, OR Institute

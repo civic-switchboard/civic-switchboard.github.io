@@ -15,14 +15,14 @@ header:
 ### Applications Open for Civic Switchboard Institute in Chapel Hill!
 Through the support of the Institute of Museum and Library Services (IMLS), we are pleased to be hosting six regional and one online **Civic Switchboard Institutes** in 2024. 
 
-Applications are now open for the first of the regional Institutes in **Chapel Hill on May 13-14, 2024**! Participants who are traveling from outside of Pittsburgh are eligible to receive an honorarium to offset travel expenses.
+Applications are now open for the first of the regional Institutes in **Chapel Hill on May 13-14, 2024**! Participants who are traveling from outside of Chapel Hill are eligible to receive an honorarium to offset travel expenses.
 
-Applications to the Pittsburgh Institute are due on **March 8**. We will notify applicants of application decisions on **February 23**.
+Applications to the Chapel Hill Institute are due on **March 8**. We will notify applicants of application decisions on **March 15**.
 
-**Please complete the online [Application Form](https://docs.google.com/forms/d/e/1FAIpQLSeP6aA3nFt6uCWAx8kPxxGBSc8r8YPRhvIp5_z2SUNlBvAiYA/viewform) to apply**. A [pdf of the application](https://drive.google.com/file/d/1wM3N28Kh-R0Lhz8T58xig3-iP1gSU8Ak/view) is available as a download to review.  
+**Please complete the online [Application Form](https://docs.google.com/forms/d/e/1FAIpQLSeP6aA3nFt6uCWAx8kPxxGBSc8r8YPRhvIp5_z2SUNlBvAiYA/viewform) to apply**. A [pdf of the application](https://drive.google.com/file/d/1Yhna14AZoCqXFjcBTBjDfoUHroq-u8ay/view) is available as a download to review.  
 
 ### About the Civic Switchboard Institute
-The Civic Switchboard Institute in Pittsburgh will bring together 20 library workers interested in serving as intermediaries between community members and civic data and developing civic data roles for their libraries.
+The Civic Switchboard Institute in Chapel Hill will bring together 20 library workers interested in serving as intermediaries between community members and civic data and developing civic data roles for their libraries.
 
 There are several goals for the regional Civic Switchboard Institutes, including: 
 * To expand a community of practice focused on libraries and civic data and connect regional library workers; 
@@ -43,15 +43,15 @@ All library workers based in the United States are eligible to apply. Attendees 
 Participants must be able to attend both days of the Institute. 
 
 
-Please see the [application](https://docs.google.com/forms/d/e/1FAIpQLScnwNbey3VlmDFImyMKJG0wuej8df9nW_2UWlpj7uqfG_HyVw/viewform) for additional information about our review criteria and contact the Civic Switchboard Team with any questions: civic-switchboard@pitt.edu.
+Please see the [application](https://docs.google.com/forms/d/e/1FAIpQLSeP6aA3nFt6uCWAx8kPxxGBSc8r8YPRhvIp5_z2SUNlBvAiYA/viewform) for additional information about our review criteria and contact the Civic Switchboard Team with any questions: civic-switchboard@pitt.edu.
 
 ### Schedule for the Regional and Online Institutes
 **Applications for more regional Civic Switchboard Institutes and the online Institute will open in the upcoming weeks and months!**
 
 We are pleased to be working with partners at The University of North Carolina at Chapel Hill, Leventhal Map & Education Center at the Boston Public Library, Portland State University, the University of Notre Dame, and Rice University to host a series of Institutes around the country. 
  
-* April 18-19, 2024 : Pittsburgh, PA Institute
-* May 13-14, 2024: Chapel Hill, NC Institute (Applications will open January 26)
+* April 18-19, 2024 : Pittsburgh, PA Institute ([Applications now open](https://docs.google.com/forms/d/e/1FAIpQLScnwNbey3VlmDFImyMKJG0wuej8df9nW_2UWlpj7uqfG_HyVw/viewform))
+* May 13-14, 2024: Chapel Hill, NC Institute ([Applications now open](https://docs.google.com/forms/d/e/1FAIpQLSeP6aA3nFt6uCWAx8kPxxGBSc8r8YPRhvIp5_z2SUNlBvAiYA/viewform))
 * June 27-28, 2024: Boston, MA Institute (Applications will open March 8)
 * July 11-12, 2024: Portland, OR Institute (Applications will open March 22)
 * August 1-2, 2024: South Bend, IN Institute (Applications will open April 12)

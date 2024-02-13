@@ -15,7 +15,7 @@ Through the support of the Institute of Museum and Library Services (IMLS), we a
 
 Applications are now open for the first of the regional Institutes in **Pittsburgh, PA on April 18-19, 2024**! Participants who are traveling from outside of Pittsburgh are eligible to receive an honorarium to offset travel expenses.
 
-Applications to the Pittsburgh Institute are due on **February 16**. We will notify applicants of application decisions on **February 23**.
+Applications to the Pittsburgh Institute are due on **February 21**. We will notify applicants of application decisions on **February 23**.
 
 **Please complete the online [Application Form](https://docs.google.com/forms/d/e/1FAIpQLScnwNbey3VlmDFImyMKJG0wuej8df9nW_2UWlpj7uqfG_HyVw/viewform) to apply**. A [pdf of the application](https://drive.google.com/file/d/1wM3N28Kh-R0Lhz8T58xig3-iP1gSU8Ak/view) is available as a download to review.  
 

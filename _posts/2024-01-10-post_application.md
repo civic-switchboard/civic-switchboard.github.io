@@ -55,6 +55,6 @@ We are pleased to be working with partners at The University of North Carolina a
 
 ### Stay Engaged!
 
-We hope you will join us for a Civic Switchboard Institute and community of practice programming. 
+We hope you will join us for a Civic Switchboard Institute and also community of practice programming. 
 
 Sign up for the [Civic Data Operators Discussion Group](https://civic-switchboard.github.io/group/) to receive email updates about the Institutes and future dates for the community calls!

@@ -10,6 +10,8 @@ Through our _Civic Data Literacy for Libraries: A Civic Switchboard Institute_ p
 six regional and one online institutes in 2024 for library workers interested in serving as intermediaries 
 between community members and civic data and developing civic data roles for their libraries.
 
+Each Institute will bring together 20 library workers who are currently working with civic data or who are interested in developing new civic data roles and projects in their libraries. 
+
 ## Institute Schedule
 
 * April 18-19, 2024 : Pittsburgh, PA Institute ([Apply here](https://docs.google.com/forms/d/e/1FAIpQLScnwNbey3VlmDFImyMKJG0wuej8df9nW_2UWlpj7uqfG_HyVw/viewform))
@@ -22,18 +24,40 @@ between community members and civic data and developing civic data roles for the
 
 ---
 
-There are several goals for the Civic Switchboard Institutes:
+**By participating in an Institute, you can**:
 
-* To expand a community of practice focused on libraries and civic data and connect regional library workers;
-* To support participants in understanding their civic data ecosystem and potential roles for their libraries;
-* To connect participants with exemplars of library civic data intermediary work by featuring the work of host sites;
-* To foster critical data literacies through engagement with topics in civic data that speak to power, social justice, and responsible data practices to mitigate harms;
-* And refine our previously designed educational materials for a library audience.
+* Connect with other regional library workers and expand a community of practice focused on libraries and civic data;
+* Explore your civic data ecosystem and potential roles for your library;
+* Connect with exemplars of library civic data intermediary work by engaging with the work of host sites;
+* Discover critical dimensions of data work, including power, social justice, and responsible data practices to mitigate harms;
+* Help improve civic data educational materials for a library audience.
+---
+## Agenda 
+**Institute Day 1: 10AM-4PM**
+* Participant introductions 
+* An introduction to open civic data 
+* An introduction to library roles with civic data and case studies
 
-We are pleased to be working with incredible regional partners who will host the 2-day Institutes in 2024:
+LUNCH 12:30-1:30PM
+
+* Exploring participants’ local civic data ecosystems
+* Identifying community data interests
+* Identifying and sharing roles for participants’ library
+
+**Institute Day 2: 9:30AM-2PM**
+
+* Regional host workshop segment on library civic data work
+* An introduction to critical data literacies
+
+LUNCH 12:15-1PM 
+
+* Discussion about community of practice model for practice model 
+* Overview of resources for moving forward with civic data work
+---
+**We are pleased to be working with incredible regional partners who will host the 2-day Institutes in 2024**:
 
 * Alex Chassanoff and Amanda Henley (University of North Carolina Chapel Hill) for a Chapel Hill, NC workshop
-* The Data Services at Fondren Library at Rice University for a Houston, TX workshop;
+* Sean Smith and Lisa Spiro Fondren Library at Rice University for a Houston, TX workshop;
 * Matthew Sisk (The University of Notre Dame) for a South Bend, IN workshop;
 * Nancee Hunter and Savannah Madden (Portland State University) for a Portland, OR workshop;
 * Garrett Dash Nelson and Ian Spangler (Leventhal Map & Education Center at the Boston Public Library) for a Boston, MA workshop.

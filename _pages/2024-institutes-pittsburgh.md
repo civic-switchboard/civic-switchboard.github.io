@@ -5,8 +5,6 @@ permalink: /2024-institutes/pittsburgh
 excerpt: "We will host six regional and one online institutes in 2024 for library workers interested in serving as intermediaries between community members and civic data and developing civic data roles for their libraries."
 
 ---
-# Civic Switchboard 2024 Institute: Pittsburgh, PA
-
 ### Workshop Dates
 April 18-19, 2024
 Workshop begins at 10am on April 18 and concludes at 2pm on April 19

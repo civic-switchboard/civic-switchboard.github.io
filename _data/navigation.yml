@@ -9,8 +9,8 @@ main:
   - title: "2024 Institutes"
     url: /2024-institutes/
     children:
-    - title: "Pittsburgh"
-      url: /2024-institutes/pittsburgh
+      - title: "Pittsburgh"
+        url: /2024-institutes/pittsburgh
   - title: "Discussion Group"
     url: /group/
   - title: "Education Series"

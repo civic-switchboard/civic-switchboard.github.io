@@ -6,10 +6,11 @@ excerpt: "We will host six regional and one online institutes in 2024 for librar
 
 ---
 ### Workshop Dates
-April 18-19, 2024
-Workshop begins at 10am on April 18 and concludes at 2pm on April 19
-April 18: Coffee available at 9:30 am, Institute from 10am - 4pm
-April 19: Coffee available at 9:30 am, Institute from 9:30am - 2pm
+April 18-19, 2024  
+Workshop begins at 10am on April 18 and concludes at 2pm on April 19  
+
+On April 18: Coffee available at 9:30 am, Institute from 10am - 4pm  
+On April 19: Coffee available at 9:30 am, Institute from 9:30am - 2pm
 
 ### Workshop Location
 3rd floor collaboration space, Information Sciences Building, 135 N. Bellefield Ave. 
@@ -18,10 +19,10 @@ April 19: Coffee available at 9:30 am, Institute from 9:30am - 2pm
 *Coming soon: airport & transportation from airport to Oakland, train & transportation from Amtrak station to Oakland*
 
 ### Parking
-Soldiers and Sailors Garage
+Soldiers and Sailors Garage  
 Address: 4215 5th Avenue, Pittsburgh PA 15213
 
-Public Parking Lot
+Public Parking Lot  
 Address: 130 N. Bellefield Ave, Pittsburgh PA 15213
 
 For additional options: [University of Pittsburgh’s Visitor Parking](https://www.pts.pitt.edu/mobility/parking/visitor-and-daily-parking)

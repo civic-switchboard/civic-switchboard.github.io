@@ -17,7 +17,7 @@ Through the support of the Institute of Museum and Library Services (IMLS), we a
 
 Applications are now open for the first of the regional Institutes in **Chapel Hill on May 13-14, 2024**! Participants who are traveling from outside of Chapel Hill are eligible to receive an honorarium to offset travel expenses.
 
-Applications to the Chapel Hill Institute are due on **March 8**. We will notify applicants of application decisions on **March 15**.
+Applications to the Chapel Hill Institute are due on **March 14** (if space allows, we will accept applications following this date).  We will notify applicants of application decisions on **March 15**.
 
 **Please complete the online [Application Form](https://docs.google.com/forms/d/e/1FAIpQLSeP6aA3nFt6uCWAx8kPxxGBSc8r8YPRhvIp5_z2SUNlBvAiYA/viewform) to apply**. A [pdf of the application](https://drive.google.com/file/d/1Yhna14AZoCqXFjcBTBjDfoUHroq-u8ay/view) is available as a download to review.  
 

@@ -12,7 +12,7 @@ header:
 ### Applications Open for Civic Switchboard Institute in Boston!
 Through the support of the Institute of Museum and Library Services (IMLS), we are pleased to be hosting six regional and one online **Civic Switchboard Institutes** in 2024. 
 
-Applications are now open for the first of the regional Institutes in **Boston on June 27-28, 2024**! Participants who are traveling from outside of Chapel Hill are eligible to receive an honorarium to offset travel expenses.
+Applications are now open for the first of the regional Institutes in **Boston on June 27-28, 2024**! Participants who are traveling from outside of Boston are eligible to receive an honorarium to offset travel expenses.
 
 Applications to the Boston Institute are due on **April 25** (if space allows, we will accept applications following this date).  We will notify applicants of application decisions on **April 26**.
 

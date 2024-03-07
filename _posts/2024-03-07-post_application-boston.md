@@ -3,10 +3,10 @@ title: "Applications Open for Civic Switchboard Institute in Boston!"
 excerpt: "Apply now!"
 permalink: /application-boston/
 header:
-  teaser: /assets/images/boston.jpeg
-  overlay_image: /assets/images/boston.jpeg
+  teaser: /assets/images/boston.jpg
+  overlay_image: /assets/images/boston.jpg
   overlay_filter: 0.5
-  caption: Steven Beuacher, editor and curator, et al., Getting Around Town, Four Centuries of Mapping Boston in Transit (Leventhal Map & Education Center at the Boston Public Library, 2023). https://www.leventhalmap.org/digital-exhibitions/getting-around-town/topics/networks-for-a-growing-city/
+  caption: Steven Beuacher,editor and curator, et al., Getting Around Town, Four Centuries of Mapping Boston in Transit (Leventhal Map & Education Center at the Boston Public Library, 2023). https://www.leventhalmap.org/digital-exhibitions/getting-around-town/topics/networks-for-a-growing-city/
 
 ---
 ### Applications Open for Civic Switchboard Institute in Boston!

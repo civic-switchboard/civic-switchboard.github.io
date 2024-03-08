@@ -39,7 +39,7 @@ All library workers based in the United States are eligible to apply. Attendees 
 Participants must be able to attend both days of the Institute. 
 
 
-Please see the [application](https://docs.google.com/forms/d/e/1FAIpQLSeP6aA3nFt6uCWAx8kPxxGBSc8r8YPRhvIp5_z2SUNlBvAiYA/viewform) for additional information about our review criteria and contact the Civic Switchboard Team with any questions: civic-switchboard@pitt.edu.
+Please see the [application](https://docs.google.com/forms/d/e/1FAIpQLSct35PAV6t2-0FHdGWXNMTJY9BpU4D0dmjJFFvMrFPJcqwmWg/viewform) for additional information about our review criteria and contact the Civic Switchboard Team with any questions: civic-switchboard@pitt.edu.
 
 ### Schedule for the Regional and Online Institutes
 **Applications for more regional Civic Switchboard Institutes and the online Institute will open in the upcoming weeks and months!**

@@ -22,10 +22,14 @@ Applications to the Boston Institute are due on **April 25** (if space allows, w
 The Civic Switchboard Institute in Boston will bring together 20 library workers interested in serving as intermediaries between community members and civic data and developing civic data roles for their libraries.
 
 There are several goals for the regional Civic Switchboard Institutes, including: 
-* To expand a community of practice focused on libraries and civic data and connect regional library workers; 
-* To support participants in understanding their civic data ecosystem and potential roles for their libraries; 
-* To connect participants with exemplars of library civic data intermediary work by featuring the work of host sites;
-* To foster critical data literacies through engagement with topics in civic data that speak to power, social justice, and responsible data practices to mitigate harms.
+* Connect with other regional library workers and expand a community of practice focused on libraries and civic data;
+* Explore your civic data ecosystem and potential roles for your library;
+* Connect with exemplars of library civic data intermediary work by engaging with the work of host sites;
+* Discover critical dimensions of data work, including power, social justice, and responsible data practices to mitigate harms;
+* Help improve civic data educational materials for a library audience.
+
+
+
 
 The Institute is designed around several hands-on activities that will help participants get a better handle on their own civic data ecosystems, design local roles, and learn from peers from across the region.
 

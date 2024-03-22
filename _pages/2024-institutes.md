@@ -17,7 +17,7 @@ Each Institute will bring together 20 library workers who are currently working 
 * April 18-19, 2024 : [Pittsburgh, PA Institute](pittsburgh) ([Apply here](https://docs.google.com/forms/d/e/1FAIpQLScnwNbey3VlmDFImyMKJG0wuej8df9nW_2UWlpj7uqfG_HyVw/viewform))
 * May 13-14, 2024: [Chapel Hill, NC Institute](https://civic-switchboard.github.io/2024-institutes/chapelhill) ([Apply here](https://docs.google.com/forms/d/e/1FAIpQLSeP6aA3nFt6uCWAx8kPxxGBSc8r8YPRhvIp5_z2SUNlBvAiYA/viewform))
 * June 27-28, 2024: Boston, MA Institute ([Apply here](https://docs.google.com/forms/d/e/1FAIpQLSct35PAV6t2-0FHdGWXNMTJY9BpU4D0dmjJFFvMrFPJcqwmWg/viewform))
-* July 11-12, 2024: Portland, OR Institute
+* July 11-12, 2024: Portland, OR Institute ([Apply here](https://docs.google.com/forms/d/e/1FAIpQLSeS726UjV2zE9b1yVrs_JrIuCGCsVF0ywqkdWI7eRTwYH1_fg/viewform))
 * August 1-2, 2024: South Bend, IN Institute
 * October 17-18, 2024: Houston, TX Institute
 * November 7 and 14, 2024: Online Institute

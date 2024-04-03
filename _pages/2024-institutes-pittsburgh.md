@@ -5,12 +5,15 @@ permalink: /2024-institutes/pittsburgh
 excerpt: "We will host six regional and one online institutes in 2024 for library workers interested in serving as intermediaries between community members and civic data and developing civic data roles for their libraries."
 
 ---
+
 ### Workshop Dates
 April 18-19, 2024  
 *Workshop begins at 10am on April 18 and concludes at 2pm on April 19*  
 
 On April 18: Coffee available at 9:30 am, Institute from 10am - 4pm  
 On April 19: Coffee available at 9:30 am, Institute from 9:30am - 2pm
+
+Detailed [Agenda](https://docs.google.com/document/d/1lhT3UgTCrgiaFc5pYAwiNhhm-GjAdSY8LdqXyrWvqi4/edit#heading=h.hsnbq5oq6qym)   
 
 ### Workshop Location
 3rd floor collaboration space, Information Sciences Building, 135 N. Bellefield Ave. 

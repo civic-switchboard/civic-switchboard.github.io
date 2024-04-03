@@ -7,7 +7,7 @@ excerpt: "We will host six regional and one online institutes in 2024 for librar
 ---
 ### Workshop Dates
 April 18-19, 2024  
-Workshop begins at 10am on April 18 and concludes at 2pm on April 19  
+*Workshop begins at 10am on April 18 and concludes at 2pm on April 19*  
 
 On April 18: Coffee available at 9:30 am, Institute from 10am - 4pm  
 On April 19: Coffee available at 9:30 am, Institute from 9:30am - 2pm
@@ -16,7 +16,14 @@ On April 19: Coffee available at 9:30 am, Institute from 9:30am - 2pm
 3rd floor collaboration space, Information Sciences Building, 135 N. Bellefield Ave. 
 
 ### Transportation
-*Coming soon: airport & transportation from airport to Oakland, train & transportation from Amtrak station to Oakland*
+Airport to Oakland: [28X](https://www.rideprt.org/pdfs/28X.pdf)- pick up at Arrivals, Lower Level, Door #2, Drop off Forbes Ave at Schenley Dr. (and others).   
+
+For Uber, Lyft, or tax, fare from airport to Oakland is $40-$50.  
+
+Amtrak Station to Oakland: Uber/Lyft or use Pittsburgh buses, including 86: [Google Maps](https://www.google.com/maps/dir/Amtrak+Pittsburgh+Station,+Liberty+Avenue,+Pittsburgh,+PA/Information+Sciences+Bldg,+135+N+Bellefield+Ave,+Pittsburgh,+PA+15213/@40.4502438,-80.0155262,13z/data=!3m1!4b1!4m19!4m18!1m5!1m1!1s0x8834f1589fe2b1bf:0x6dffce30c7354135!2m2!1d-79.9915525!2d40.4446786!1m5!1m1!1s0x8834f2258723e905:0xbc166e2a40b6776c!2m2!1d-79.9526582!2d40.4474059!2m4!5e0!5e1!5e2!5e3!3e3?entry=ttu)  
+
+We suggest bringing cash if using Pittsburgh bus transit ( $2.75 for unlimited rides within a three hour period)
+
 
 ### Parking
 Soldiers and Sailors Garage  

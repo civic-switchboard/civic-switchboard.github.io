@@ -24,7 +24,7 @@ There are several goals for the regional Civic Switchboard Institutes, including
 * Discover critical dimensions of data work, including power, social justice, and responsible data practices to mitigate harms;
 * Help improve civic data educational materials for a library audience.
 The Institute is designed around several hands-on activities that will help participants get a better handle on their own civic data ecosystems, design local roles, and learn from peers from across the region.
-For the South Bend Institute in August, we are excited to be partnering with colleagues from The University of Notre Dame. **Matthew Sisk**, an Associate Professor of Practice in the Lucy Family Institute for Data & Society, will contribute to the Institute . 
+For the South Bend Institute in August, we are excited to be partnering with colleagues from The University of Notre Dame. **Matthew Sisk**, an Associate Professor of Practice in the Lucy Family Institute for Data & Society, will contribute to the Institute on the topic of building relationships to enable community-driven narratives in a data portal. 
 
 ### Eligibility
 All library workers based in the United States are eligible to apply. Attendees can be from public, academic, government, or another type of library. Civic Switchboard has planned multiple regional institutes to make attendance more accessible. While we expect many participants will choose to apply to the institute that is geographically closest to them, regional proximity is not a requirement of eligibility.

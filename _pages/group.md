@@ -6,6 +6,7 @@ permalink: /group/
 excerpt: "The Civic Data Operators group allows those working to connect libraries with civic data in their local communities to exchange information, ideas, and resources."
 
 ---
+Civic data describes a broad range of information related to community life and the decision-making and policies that affect people and places; it can include not only data produced by governmental organizations, but also non-profits, civic institutions (like libraries!), and other community-based organizations.
 
 The **Civic Data Operators** group allows those working to connect libraries with civic data in their local communities to exchange information and ideas and resources. While the Civic Switchboard project has been an promoter of this community, it is our hope for this group to have its own identity and sense of ownership beyond any particular project.
 

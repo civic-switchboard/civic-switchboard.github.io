@@ -6,6 +6,8 @@ permalink: /2024-institutes/
 excerpt: "We will host six regional and one online institutes in 2024 for library workers interested in serving as intermediaries between community members and civic data and developing civic data roles for their libraries."
 
 ---
+Civic data describes a broad range of information related to community life and the decision-making and policies that affect people and places; it can include not only data produced by governmental organizations, but also non-profits, civic institutions (like libraries!), and other community-based organizations.
+
 Through our _Civic Data Literacy for Libraries: A Civic Switchboard Institute_ project, we will host 
 six regional and one online institutes in 2024 for library workers interested in serving as intermediaries 
 between community members and civic data and developing civic data roles for their libraries.

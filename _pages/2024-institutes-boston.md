@@ -12,7 +12,7 @@ Workshop begins at 10am on June 27 and concludes at 2pm on June 28
 On June 27: Coffee available at 9:30 am, Institute from 10am - 4pm  
 On June 28: Coffee available at 9:30 am, Institute from 9:30am - 2pm
 
-Detailed [Agenda]()  
+Detailed [Agenda](https://docs.google.com/document/d/1yDIKJhu6Txt22-qhwg970_UKmn13zNLuoe9ZT56AFRY/edit#heading=h.hsnbq5oq6qym)  
 
 ### Workshop Location
 Boston Public Library ([Orientation Room](https://www.bpl.org/orientation-room/), McKim Building) 

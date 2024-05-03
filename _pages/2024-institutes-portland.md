@@ -7,7 +7,7 @@ excerpt: "We will host six regional and one online institutes in 2024 for librar
 
 ### Workshop Dates
 July 11-12, 2024  
-Workshop begins at 10am on June 27 and concludes at 2pm on June 28
+Workshop begins at 10am on July 11 and concludes at 2pm on July 12
 
 On July 11: Coffee available at 9:30 am, Institute from 10am - 4pm  
 On July 12: Coffee available at 9:30 am, Institute from 9:30am - 2pm

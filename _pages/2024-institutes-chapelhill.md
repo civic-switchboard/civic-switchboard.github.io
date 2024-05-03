@@ -10,7 +10,7 @@ May 13-14, 2024
 Workshop begins at 10am on May 13 and concludes at 2pm on May 14 
 
 On May 13: Coffee available at 9:30 am, Institute from 10am - 4pm  
-On May 14: Coffee available at 9:30 am, Institute from 9:30am - 2pm
+On May 14: Coffee available at 9:00 am, Institute from 9:30am - 2pm
 
 Detailed [Agenda](https://docs.google.com/document/d/1MPM4UHwxBv9FRmCAAccSO8SwOlzqhJ7DbCRzgJCHRqM/edit#heading=h.hsnbq5oq6qym)  
 

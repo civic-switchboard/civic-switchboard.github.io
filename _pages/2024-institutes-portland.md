@@ -10,7 +10,7 @@ July 11-12, 2024
 Workshop begins at 10am on July 11 and concludes at 2pm on July 12
 
 On July 11: Coffee available at 9:30 am, Institute from 10am - 4pm  
-On July 12: Coffee available at 9:30 am, Institute from 9:30am - 2pm
+On July 12: Coffee available at 9:00 am, Institute from 9:30am - 2pm
 
 Detailed [Agenda]()
 

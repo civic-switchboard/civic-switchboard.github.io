@@ -9,17 +9,19 @@ excerpt: "We will host six regional and one online institutes in 2024 for librar
 July 11-12, 2024  
 Workshop begins at 10am on July 11 and concludes at 2pm on July 12
 
-On July 11: Coffee available at 9:30 am, Institute from 10am - 4pm  
-On July 12: Coffee available at 9:00 am, Institute from 9:30am - 2pm
+On July 11: Coffee available at 9:45 am, Institute from 10am - 4pm  
+On July 12: Coffee available at 9:15 am, Institute from 9:30am - 2pm
 
-Detailed [Agenda]()
+Detailed [Agenda](https://docs.google.com/document/d/143HrdzvGETbISBo6-5wdcs5f89-CY3PXEaiIJuLC3iU/edit?usp=sharing)
 
 ### Workshop Location
 Portland State University 
 Cramer Hall - 4th floor
 CH-469 GEOG Lab (30) and CH-413 GEOG Classroom (50)
 
-[Campus Map](https://map.pdx.edu/)
+[Campus Map](https://map.pdx.edu/)  
+
+{% include figure image_path="/assets/images/PSU_Campus_Map.jpg" alt="Campus Map Annotated" caption="Campus Map Annotated." %}
 
 ### Transportation
 [Airport transportation](https://www.pdx.edu/international-scholars/airport-transportation#:~:text=The%20TriMet%20MAX%20Red%20Line,take%20you%20right%20to%20PSU)

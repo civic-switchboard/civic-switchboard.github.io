@@ -30,7 +30,7 @@ CH-469 GEOG Lab (30) and CH-413 GEOG Classroom (50)
 ### Parking 
 [PSU hourly and visitor Parking](https://www.pdx.edu/transportation/hourly-visitor-parking)
 
-{% include figure image_path="/assets/images/PSU_Campus_Map.jpg" alt="Campus Map" caption="Suggested lot - park in non-reserved spots "%}
+{% include figure image_path="/assets/images/PSU_Campus_Map.jpg" alt="Campus Map" caption="Suggested lot: Parking Structures 2 (park in non-reserved spots) "%}
 
 ### Accommodation
 [Hotel Zags](https://www.thehotelzags.com) (recommended lodging)

@@ -21,7 +21,7 @@ CH-469 GEOG Lab (30) and CH-413 GEOG Classroom (50)
 
 [Campus Map](https://map.pdx.edu/)  
 
-{% include figure image_path="/assets/images/PSU_Campus_Map.jpg" alt="Campus Map Annotated" caption="Campus Map Annotated." %}
+{% include figure image_path="/assets/images/PSU_Campus_Map.jpg" alt="Campus Map" %}
 
 ### Transportation
 [Airport transportation](https://www.pdx.edu/international-scholars/airport-transportation#:~:text=The%20TriMet%20MAX%20Red%20Line,take%20you%20right%20to%20PSU)

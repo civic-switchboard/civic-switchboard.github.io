@@ -13,7 +13,7 @@ August 1: Institute from 10am - 4pm
 August 2: Institute from 9:30am - 2pm
 
 
-Detailed Agenda (coming soon)
+[Detailed Agenda](https://docs.google.com/document/d/1Lk82rAKUyUzzbGlDBV4DK1G8i8D8OFl5gtXDgP7daV8/edit#heading=h.hsnbq5oq6qym)
 
 ### Workshop Location
 St. Joseph County Public Library Community Learning Center

@@ -61,7 +61,7 @@ LUNCH 12:15-1PM
 
 * Alex Chassanoff and Amanda Henley (University of North Carolina Chapel Hill) for a Chapel Hill, NC workshop
 * Sean Smith and Lisa Spiro Fondren Library at Rice University for a Houston, TX workshop;
-* Matthew Sisk (The University of Notre Dame) for a South Bend, IN workshop;
+* Matthew Sisk (University of Notre Dame, Lucy Family Institute for Data & Society) and Katherine Walden (University of Notre Dame, Department of American Studies) for a South Bend, IN workshop;
 * Nancee Hunter and Savannah Madden (Portland State University) for a Portland, OR workshop;
 * Garrett Dash Nelson and Ian Spangler (Leventhal Map & Education Center at the Boston Public Library) for a Boston, MA workshop.
 * Pittsburgh, PA, the location of the Civic Switchboard team, will also serve as a workshop site, and we will offer one entirely online workshop.

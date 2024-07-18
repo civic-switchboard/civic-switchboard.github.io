@@ -18,8 +18,8 @@ Each Institute will bring together 20 library workers who are currently working 
 
 * April 18-19, 2024 : [Pittsburgh, PA Institute](pittsburgh)
 * May 13-14, 2024: [Chapel Hill, NC Institute](https://civic-switchboard.github.io/2024-institutes/chapelhill) 
-* June 27-28, 2024: [Boston, MA Institute](https://civic-switchboard.github.io/2024-institutes/boston) ([Apply here](https://docs.google.com/forms/d/e/1FAIpQLSct35PAV6t2-0FHdGWXNMTJY9BpU4D0dmjJFFvMrFPJcqwmWg/viewform))
-* July 11-12, 2024: [Portland, OR Institute](https://civic-switchboard.github.io/2024-institutes/portland) ([Apply here](https://docs.google.com/forms/d/e/1FAIpQLSeS726UjV2zE9b1yVrs_JrIuCGCsVF0ywqkdWI7eRTwYH1_fg/viewform))
+* June 27-28, 2024: [Boston, MA Institute](https://civic-switchboard.github.io/2024-institutes/boston) 
+* July 11-12, 2024: [Portland, OR Institute](https://civic-switchboard.github.io/2024-institutes/portland)
 * August 1-2, 2024: [South Bend, IN Institute](https://civic-switchboard.github.io/2024-institutes/south-bend) ([Apply here]( https://docs.google.com/forms/d/e/1FAIpQLSdeqMuws_TrcgT2xSKGp2Ep3lg5-mHymiRbT2CLAQEM12ISkg/viewform?usp=sf_link))
 * October 17-18, 2024: Houston, TX Institute  ([Apply here](https://docs.google.com/forms/d/e/1FAIpQLSfXUwD5hPh2gZyW5RwfyyJdgLRSNbJSyN7kyaW8oKT-wYmpyQ/viewform))
 * November 7 and 14, 2024: Online Institute

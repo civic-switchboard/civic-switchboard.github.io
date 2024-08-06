@@ -9,10 +9,10 @@ excerpt: "We will host six regional and one online institutes in 2024 for librar
 October 17-18, 2024
 Workshop begins at 10am on October 17 and concludes at 2pm on October 18
 
-October 17: Institute from 10am - 4pm
+October 17: Institute from 10am - 4pm  
 October 18: Institute from 9:30am - 2pm
 
-_Detailed Agenda coming soon_
+[Detailed Agenda](https://docs.google.com/document/d/1IwzSos-056uAVvKczWKUe5pbI1mFTUABdY5JyoQOIoA/edit#heading=h.hsnbq5oq6qym)
 
 ### Workshop Location
 Kyle Morrow Room  

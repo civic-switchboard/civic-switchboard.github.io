@@ -22,7 +22,7 @@ Each Institute will bring together 20 library workers who are currently working 
 * July 11-12, 2024: [Portland, OR Institute](https://civic-switchboard.github.io/2024-institutes/portland)
 * August 1-2, 2024: [South Bend, IN Institute](https://civic-switchboard.github.io/2024-institutes/south-bend)
 * October 17-18, 2024: [Houston, TX Institute](https://civic-switchboard.github.io/2024-institutes/houston) ([Apply here](https://docs.google.com/forms/d/e/1FAIpQLSfXUwD5hPh2gZyW5RwfyyJdgLRSNbJSyN7kyaW8oKT-wYmpyQ/viewform))
-* November 7 and 14, 2024: Online Institute
+* November 7 and 14, 2024: Online Institute ([Apply here](https://docs.google.com/forms/d/e/1FAIpQLSfbGIpxeYTbU2DjhDSS3wP4CFfr-hfB6f3ui6Z-eZrdk-kS0Q/viewform))
 
 ---
 

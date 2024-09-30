@@ -26,7 +26,7 @@ Get to Fondren Library: [https://library.rice.edu/content/getting-fondren-librar
 ### Parking 
 The closest visitor parking lot is Founder's Court Lot, while the closest visitor parking garage is the Central Campus Garage. See [Rice Parking](https://parking.rice.edu/parking-facilities-and-rates) for rates and more information about parking.
 
-{% include figure image_path="/assets/images/Rice_Campus_Map.jpg" alt="Campus Map" caption="Suggested lots circled in red"%}
+{% include figure image_path="/assets/images/Rice_Campus_Map.jpg" alt="Campus Map" caption="The green arrow points to the library entrance to use, and the red circles indicate the closest visitor parking to the library"%}
 
 Maps: [https://www.rice.edu/campus-maps](https://www.rice.edu/campus-maps) 
 

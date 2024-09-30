@@ -24,7 +24,8 @@ Get to Rice: [https://www.rice.edu/get-to-rice](https://www.rice.edu/get-to-rice
 Get to Fondren Library: [https://library.rice.edu/content/getting-fondren-library](https://library.rice.edu/content/getting-fondren-library) 
 
 ### Parking 
-Rates: [https://parking.rice.edu/parking-facilities-and-rates](https://parking.rice.edu/parking-facilities-and-rates)  
+The closest visitor parking lot is Founder's Court Lot, while the closest visitor parking garage is the Central Campus Garage. See [Rice Parking](https://parking.rice.edu/parking-facilities-and-rates) for rates and more information about parking.
+
 Maps: [https://www.rice.edu/campus-maps](https://www.rice.edu/campus-maps) 
 
 ### Accommodation

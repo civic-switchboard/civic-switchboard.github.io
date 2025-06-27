@@ -1,6 +1,6 @@
 ---
 title: "Data Impact Stories"
-excerpt: "Community call recap: Co-creating strategies to identify impactful data stories"
+excerpt: "Community Call Recap: Co-creating strategies to identify impactful data stories"
 permalink: /impact/
 header:
   teaser: /assets/images/patchwork.jpg

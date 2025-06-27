@@ -54,9 +54,9 @@ Members of the Civic Switchboard Project Team have also developed other data sto
 
 Bob Gradeck at the Western Pennsylvania Regional Data Center at Pitt’s University Center for Social and Urban Research has encouraged individuals to record their data stories on paper. The My Data Story booklet invites people to respond to prompts like “Here’s my story about the time I used data to … [do a thing]”; “The most important thing I learned from my data story was … [takeaway]”; and “I couldn’t have used my data without ….
 
-You can access images of the pages in the My Data Story booklet and adapt for your use in this slide deck: [MyDataStory](https://docs.google.com/presentation/d/1vgnVWuD5ULA_xWWCHNhTzXE5PKLT7Bjl28nrf6AuL-8/edit) 
+You can access images of the pages in the My Data Story booklet and adapt for your use in this slide deck: [My Data Story](https://docs.google.com/presentation/d/1vgnVWuD5ULA_xWWCHNhTzXE5PKLT7Bjl28nrf6AuL-8/edit) 
 
-{% include figure image_path="/assets/images/data-story.JPG" alt="data story book" caption="Cover and example page from My Data Story booklet by Bob Gradeck, University Center for Social and Urban Research." %}
+{% include figure image_path="/assets/images/data-story.jpg" alt="data story book" caption="Cover and example page from My Data Story booklet by Bob Gradeck, University Center for Social and Urban Research." %}
 
 Additionally, Liz Monk at the Western Pennsylvania Regional Data Center at Pitt’s University Center for Social and Urban Research, and former Civic Switchboard team member Eleanor Tutt created [Data 101](https://docs.google.com/document/d/1VbfIQ80nkaVg87ttPqH4bxsJzBROBSy1VdvOCu_hoP0/edit?tab=t.0), an open educational resource that can be used for introductory data training.  Involving paper-based and low-tech activities, the series includes a “Finding Stories in Data” workshop. Library and data workers can adapt this workshop for training with their patrons, community members, and colleagues.
 

@@ -24,8 +24,8 @@ What's involved: Participants will join three 90-minute co-design sessions via Z
 **Session 3 - Sustaining the Work**: We will envision how a community of practice could grow, be maintained, and be funded over the long term.    
 
 **Session Dates:**
-* Co-Design Session 1: April 16, 2026 | 2:00 - 3:30pm Eastern / 11:00am - 12:30pm Pacific 
-* Co-Design Session 2: May 21, 2026 | 2:00 - 3:30pm Eastern / 11:00am - 12:30pm Pacific 
-* Co-Design Session 3: June 18, 2026 | 2:00 - 3:30pm Eastern / 11:00am - 12:30pm Pacific 
+* Co-Design Session 1: April 16, 2026, 2:00 - 3:30pm Eastern / 11:00am - 12:30pm Pacific 
+* Co-Design Session 2: May 21, 2026, 2:00 - 3:30pm Eastern / 11:00am - 12:30pm Pacific 
+* Co-Design Session 3: June 18, 2026, 2:00 - 3:30pm Eastern / 11:00am - 12:30pm Pacific 
 
 Please complete [the expression of interest form](https://docs.google.com/forms/d/e/1FAIpQLSc9o_6ftbKcwaF93rfNc0gwiY79GBVWUcs1bMC62IetkllXvw/viewform) by the end of day on March 20. We will respond to expressions of interest by March 27. Feel free to contact civic-switchboard@pitt.edu with any questions!  

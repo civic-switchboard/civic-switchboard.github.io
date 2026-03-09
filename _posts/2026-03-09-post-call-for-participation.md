@@ -3,10 +3,10 @@ title: "Call for Participation"
 excerpt: "Civic Switchboard: Community of Practice Co-Design"
 permalink: /call-for-participation/
 header:
-  teaser: /assets/images/patchwork.jpg
-  overlay_image: /assets/images/patchwork.jpg
+  teaser: /assets/images/flowers.jpg
+  overlay_image: /assets/images/flowers.jpg
   overlay_filter: 0.5
-  caption: "Patchwork Tie-Dye Huari Huari Sureño Exposición Permanente - Tejidos del antiguo Perú. https://coleccion.museolarco.org/detail/32936"
+  caption: "Source: The Flickr - The Commons/British Library"
 ---
 
 ## Call for Participation
